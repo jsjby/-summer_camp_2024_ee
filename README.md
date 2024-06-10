@@ -30,13 +30,21 @@
 
 【报名截止：6.15】[环境科学与工程学院](https://env.nankai.edu.cn/2024/0601/c12945a544721/page.htm)
 
+【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)
+
+【报名截止：6.10】[物理科学学院](https://physics.nankai.edu.cn/2024/0527/c576a544264/page.htm)
+
 ## 北京航空航天大学
 
 > [北航夏令营信息](https://mp.weixin.qq.com/s/Xmpb74tyPoDMKTWwl7i2jQ)
 
+【报名截止：6.21】[能源与动力工程学院](https://mp.weixin.qq.com/s/do-aF_70AvxHWh3ebtSJYQ)
+
 ## 北京师范大学
 
 > [北京师范大学夏令营信息](https://yz.bnu.edu.cn/detail/0d44aa4c-df5a-43cb-8ea6-808edd09f332)
+
+【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
 
 【报名截止：6.23】[地理科学学部](https://geo.bnu.edu.cn/tzgg/075cd2367c9f4870920c37629fd4dccb.html)
 
@@ -55,6 +63,8 @@
 【报名截止：6.20】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3463.html)
 
 【报名截止：6.17】[集成电路学院](https://mne.zju.edu.cn/2024/0529/c54013a2924723/page.htm)
+
+【报名截止：6.16】[海洋学院](http://oc.zju.edu.cn/2024/0524/c52420a2922510/page.htm)
 
 ## 电子科技大学
 
@@ -106,15 +116,37 @@
 
 【报名截止：6.15】[仪器科学与技术学院](https://ist.xjtu.edu.cn/info/1015/1802.htm)
 
+~~【报名截止：6.10】[自动化科学与工程学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)~~
+
 ## 厦门大学
 
 > [厦门大学夏令营信息](https://zs.xmu.edu.cn/info/1055/28951.htm)
 
+【报名截止：6.15】[物理科学与技术学院](https://cpst.xmu.edu.cn/info/1045/24900.htm)
+
+【报名截止：6.15】[能源学院](https://energy.xmu.edu.cn/info/1014/11558.htm)
+
+【报名截止：6.15】[公共卫生学院](https://sph.xmu.edu.cn/info/1311/52304.htm)
+
 ## 中国科学技术大学
+
+> [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：暂无】[电子工程与信息科学系](https://eeis.ustc.edu.cn/2024/0603/c2702a642819/page.htm)
 
 【报名截止：6.30】[人工智能与数据科学学院](http://m.xly.ustc.edu.cn/news.php?newsid=1023)
+
+【报名截止：6.30】[ 国家同步辐射实验室光子科学](https://m.xly.ustc.edu.cn/news.php?newsid=992)
+
+【报名截止：6.30】[网络空间安全学院](https://cybersec.ustc.edu.cn/2024/0527/c23827a642029/page.htm)
+
+【报名截止：6.30】[环境科学与工程系](https://ese.ustc.edu.cn/2024/0527/c26730a642022/page.htm)
+
+【报名截止：6.30】[苏州高等研究院](https://sz.ustc.edu.cn/xwgg_show/1574.html)
+
+【报名截止：6.30】[空间科学与技术学院](https://xly.ustc.edu.cn/news.php?newsid=998)
+
+【报名截止：6.30】[先进技术研究院](https://m.xly.ustc.edu.cn/news.php?newsid=994)
 
 【报名截止：6.30】[科学岛分院、环境科学与光电技术学院](https://m.xly.ustc.edu.cn/news.php?newsid=1003)
 
@@ -125,6 +157,8 @@
 【报名截止：6.30】[国家示范性微电子学院](https://sme.ustc.edu.cn/2024/0603/c31027a642813/page.htm)
 
 【报名截止：6.30】[生物医学工程学院](https://bme.ustc.edu.cn/2024/0604/c28110a642852/page.htm)
+
+【报名截止：6.23】[苏州纳米所](http://yjsb.sinano.ac.cn/NoticeAnn/info.aspx?itemid=1460)
 
 ## 中国人民大学
 
@@ -154,6 +188,8 @@
 
 【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)
 
+【报名截止：6.23】[电子与信息工程学院(微电子学院）](https://seit.sysu.edu.cn/article/2594)
+
 【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1416009.htm)
 
 ## 中国海洋大学
@@ -172,6 +208,8 @@
 
 【报名截止：6.21】[集成电路科学与工程学院](https://mp.weixin.qq.com/s/f5IZyh3hcb8TnVMJTyq4mQ)
 
+【报名截止：6.21】[电子科学系](https://mp.weixin.qq.com/s/V3pUAe4Lbu44WmkNpzZFyA)
+
 【报名截止：6.21】[通信与电子工程学院](http://www.cee.ecnu.edu.cn/29/be/c4170a600510/page.htm)
 
 ## 吉林大学
@@ -180,11 +218,17 @@
 
 【报名截止：6.16】[电子科学与工程学院](http://ee.jlu.edu.cn/info/1038/8482.htm)
 
+【报名截止：6.15】[通信工程学院](https://dce.jlu.edu.cn/info/1032/10477.htm)
+
 ## 湖南大学
 
 > [湖南大学2024年各学院优秀大学生暑期夏令营信息汇总](https://gra.hnu.edu.cn/info/1075/9607.htm)
 
 【报名截止：6.14】[电气与信息工程学院](https://eeit.hnu.edu.cn/info/1184/10533.htm)
+
+【报名截止：6.14】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1865.htm)
+
+【报名截止：6.14】[信息科学与工程学院](https://csee.hnu.edu.cn/info/1062/13197.htm)
 
 【报名截止：6.14】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2648.htm)
 
@@ -247,6 +291,8 @@
 【报名截止：6.20】[光电技术研究所](https://yjsb.ioe.ac.cn/zhaosheng/show.asp?id=1931)
 
 【报名截止：6.20】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zsxx2020/sszs2020/202405/t20240528_7173998.html)
+
+【报名截止：6.20】[新疆天文台](http://xao.ac.cn/zt/yjsjy/dxskcjh/xlyjdxskcjh/202405/t20240524_7169619.html)
 
 【报名截止：6.18】[西安光机所](https://mp.weixin.qq.com/s/tfDJUvhKa0H2Rs73YhqgPg)
 
@@ -340,11 +386,15 @@
 
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
 
+【报名截止：6.20】 [信息科学与工程学院](https://cise.ecust.edu.cn/2024/0525/c7692a167872/page.psp)
+
 ## 南京师范大学
 
 > [南京师范大学夏令营信息](https://yz.njnu.edu.cn/homepage_display.jsp?wid=null&wid2=14D794593A67E337E06002DF3E094F07)
 
 【报名截止：6.15】 [瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1044/5723.htm)
+
+【报名截止：6.15】 [计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=19264)
 
 
 
