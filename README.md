@@ -192,6 +192,8 @@
 
 【报名截止：6.28】[计算机学院](https://scse.buaa.edu.cn/info/1299/11192.htm)
 
+【报名截止：6.25】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11312)
+
 【报名截止：6.21】[能源与动力工程学院](https://mp.weixin.qq.com/s/do-aF_70AvxHWh3ebtSJYQ)
 
 ## 北京理工大学
@@ -259,6 +261,8 @@
 【报名截止：N/A】[航空航天学院](https://www.iaa.uestc.edu.cn/info/1143/5761.htm)
 
 【报名截止：6.28】[自动化工程学院](https://www.auto.uestc.edu.cn/info/1045/6663.htm)
+
+【报名截止：6.28】[电子科学技术研究院](https://www.riest.uestc.edu.cn/info/1021/2978.htm)
 
 【报名截止：6.28】[物理学院](https://www.sp.uestc.edu.cn/info/1042/5700.htm)
 
@@ -498,6 +502,8 @@
 
 【报名截止：6.21】[通信与电子工程学院](http://www.cee.ecnu.edu.cn/29/be/c4170a600510/page.htm)
 
+~~【报名截止：6.20】[电子信息类别（人工智能领域）专业学位产教融合项目](https://yjsy.ecnu.edu.cn/2c/cf/c42082a601295/page.htm)~~
+
 ~~【报名截止：6.14】[软件工程学院](http://www.sei.ecnu.edu.cn/19/0c/c33171a596236/page.htm)~~
 
 ## 哈尔滨工业大学
@@ -536,6 +542,10 @@
 
 【报名截止：6.30】[船舶与海洋工程学院](https://ch.hust.edu.cn/info/1039/3534.htm)
 
+【报名截止：6.28】[人工智能与自动化学院](https://aia.hust.edu.cn/info/1177/9301.htm)
+
+【报名截止：6.26】[生命科学与技术学院](https://life.hust.edu.cn/info/1855/10724.htm)
+
 【报名截止：6.23】[中欧清洁与可再生能源学院](http://icare.hust.edu.cn/info/1031/8387.htm)
 
 ## 国防科技大学
@@ -569,7 +579,6 @@
 【报名截止：6.21】[电子信息学院](https://eie.scu.edu.cn/info/1025/12669.htm)
 
 【报名截止：6.21】[生物医学工程学院/国家生物医学材料工程技术研究中心](https://bme.scu.edu.cn/info/1011/3060.htm)
-
 
 ## 东北大学
 
@@ -630,6 +639,10 @@
  > [重庆大学2025年接收推免预报名公告](https://yz.cqu.edu.cn/news/2024-06/2161.html)
 
 【报名截止：6.30】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/19705.htm)
+
+【报名截止：6.30】[微电子与通信工程学院](https://mp.weixin.qq.com/s/WupYGblUChaelg8bloc3Iw)
+
+【报名截止：6.30】[计算机学院](https://mp.weixin.qq.com/s/k7H-iKD5-81RJFY94TS7tA)
 
 【报名截止：6.28】[光电工程学院](https://coe.cqu.edu.cn/info/1010/6729.htm)
 
@@ -795,6 +808,8 @@
 
 【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
 
+【报名截止：6.25】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5595.htm)
+
 【报名截止：6.23】[人工智能学院](https://ai.bupt.edu.cn/info/1065/3416.htm)
 
 【报名截止：6.23】[计算机学院](https://scs.bupt.edu.cn/info/1050/3886.htm)
@@ -903,6 +918,8 @@
 
 【报名截止：7.1】[石油工程学院](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)
 
+【报名截止：6.28】[地球科学与技术学院](https://geori.upc.edu.cn/2024/0617/c21487a434253/page.htm)
+
 ## 中国传媒大学
 
 【报名截止：6.27】[信息与通信工程学院](https://yz.cuc.edu.cn/2024/0614/c8549a220981/page.htm)
@@ -964,6 +981,8 @@
 【报名截止：6.30】[物理与光电工程学院](https://wlgdxy.gdut.edu.cn/info/1033/3417.htm)
 
 【报名截止：6.28】[机电工程学院](https://jdgcxy.gdut.edu.cn/info/1086/4208.htm)
+
+【报名截止：6.28】[自动化学院](https://automation.gdut.edu.cn/info/1081/10046.htm)
 
 ~~【报名截止：6.19】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8240.htm)~~
 
