@@ -186,6 +186,12 @@
 
 > [北航夏令营信息](https://mp.weixin.qq.com/s/Xmpb74tyPoDMKTWwl7i2jQ)
 
+【报名截止：6.30】[大科学装置研究院](https://yqgdxy.buaa.edu.cn/info/1053/6147.htm)
+
+【报名截止：6.30】[集成电路科学与工程学院](http://www.sme.buaa.edu.cn/info/1036/7427.htm)
+
+【报名截止：6.28】[计算机学院](https://scse.buaa.edu.cn/info/1299/11192.htm)
+
 【报名截止：6.21】[能源与动力工程学院](https://mp.weixin.qq.com/s/do-aF_70AvxHWh3ebtSJYQ)
 
 ## 北京理工大学
@@ -199,6 +205,10 @@
 【报名截止：6.24】[医学技术学院](https://smt.bit.edu.cn/tzgg/642567b2361c4f15ae3372bea86c6eac.htm)
 
 【报名截止：6.24】[光电学院](https://opt.bit.edu.cn/tzgg2/tzgg/0339d87b00934b1da6341fc8bf27050d.htm)
+
+【报名截止：6.24】[珠海校区](https://mp.weixin.qq.com/s/WwD3GK9s1or_MHtx5jGUmg)
+
+ > 珠海校区定于2024年7月8日-10日，举办首届北京理工大学珠海校区全国优秀大学生暑期夏令营，欢迎全国高校的电子信息、集成电路、自动化、计算机、材料、化工、机械、车辆、能源动力、航空航天、力学等相关专业
 
 【报名截止：6.23】[机械与车辆学院](https://me.bit.edu.cn/tzgg/168980498eae46498986af20dee76ac9.htm)
 
@@ -613,7 +623,11 @@
 
 【报名截止：6.30】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/19705.htm)
 
+【报名截止：6.28】[光电工程学院](https://coe.cqu.edu.cn/info/1010/6729.htm)
+
 【报名截止：6.26】[化学化工学院](https://hgxy.cqu.edu.cn/info/1158/7043.htm)
+
+【报名截止：6.26】[国家卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
 
 【报名截止：6.25】[物理学院](https://phys.cqu.edu.cn/info/1103/6184.htm)
 
@@ -852,6 +866,10 @@
 ## 南京理工大学
 
 【报名截止：7.18】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/wpRMXnkXDZGZVZwU7FWuXQ)
+
+【报名截止：7.15】[微电子学院（集成电路学院）](https://mp.weixin.qq.com/s/MhDUM4ali-xIjCcqGk-QlQ)
+
+【报名截止：7.1】[机械工程学院](https://mp.weixin.qq.com/s/_sBe7TvLvUmMyRYZTSkifA)
 
 【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)
 
