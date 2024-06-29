@@ -314,6 +314,10 @@
 
 【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
 
+【报名截止：8.5】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
+
+【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
+
 【报名截止：7.31】[仪器科学与工程学院](https://ins.seu.edu.cn/2024/0624/c26759a495168/page.psp)
 
 ~~【报名截止：6.27】[土木工程学院](https://civil.seu.edu.cn/2024/0617/c20024a494297/page.htm)~~
@@ -1022,7 +1026,7 @@
 
 ## 北京协和医学院
 
-【报名截止：6.29】[生物医学工程研究所](https://mp.weixin.qq.com/s/8fnFpvbj8bj0N2phkEJu_g)
+~~【报名截止：6.29】[生物医学工程研究所](https://mp.weixin.qq.com/s/8fnFpvbj8bj0N2phkEJu_g)~~
 
 ~~【报名截止：6.10】[医学院医学信息研究所](https://mp.weixin.qq.com/s/osh_ywpQmUYVesWWW3pFGQ)~~
 
@@ -1256,6 +1260,8 @@
 
 【报名截止：7.5】 [微纳光电子学研究院](https://mp.weixin.qq.com/s/-fmla2liF_ZChw119i8OCA)
 
+【报名截止：7.5】 [大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)
+
 ## 三峡大学
 
 ~~【报名截止：6.26】 [电气与新能源学院](https://newee.ctgu.edu.cn/info/1073/8490.htm)~~
@@ -1295,6 +1301,14 @@
 【报名截止：7.1】 [电力工程系](https://ee.ncepu.edu.cn/tzgg3/5dc576828d194f908464095b91011721.htm)
 
 【报名截止：6.30】 [电气与电子工程学院](https://electric.ncepu.edu.cn/zsgz/bsyjszs/432f27cc7246428387d6078081e03515.htm)
+
+## 华南农业大学
+
+【报名截止：7.3】 [工程学院](https://gcxy.scau.edu.cn/2024/0628/c2105a379430/page.htm)
+
+## 黑龙江大学
+
+【报名截止：N/A】 [电子工程学院](https://yjsy.hlju.edu.cn/info/1009/9670.htm)
 
 ## 江苏师范大学
 
