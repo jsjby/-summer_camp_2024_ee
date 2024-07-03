@@ -466,7 +466,7 @@
 
 ## 中山大学
 
-【报名截止：7.3】[智能工程学院](https://ise.sysu.edu.cn/notice/1416128.htm)
+~~【报名截止：7.3】[智能工程学院](https://ise.sysu.edu.cn/notice/1416128.htm)~~
 
 ~~【报名截止：7.1】[柔性电子学院](https://sofe.sysu.edu.cn/zh-hans/article/232)~~
 
@@ -498,7 +498,7 @@
 
 ## 中国农业大学
 
-【报名截止：7.2】[理学院](https://sci.cau.edu.cn/art/2024/6/19/art_40525_1029917.html)
+~~【报名截止：7.2】[理学院](https://sci.cau.edu.cn/art/2024/6/19/art_40525_1029917.html)~~
 
 ~~【报名截止：6.25】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2024/6/11/art_50390_1028886.html)~~
 
@@ -596,7 +596,7 @@
 
 【报名截止：7.5】[电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13805)
 
-【报名截止：7.3】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)
+~~【报名截止：7.3】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)~~
 
 ~~【报名截止：7.1】[电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13818)~~
 
@@ -606,7 +606,7 @@
 
 ## 吉林大学
 
-【报名截止：7.3】[仪器科学与电气工程学院](https://mp.weixin.qq.com/s/BysoQV6j889NP4t1FbeUWA)
+~~【报名截止：7.3】[仪器科学与电气工程学院](https://mp.weixin.qq.com/s/BysoQV6j889NP4t1FbeUWA)~~
 
 ~~【报名截止：6.30】[建设工程学院](https://const.jlu.edu.cn/info/1065/7440.htm)~~
 
@@ -764,7 +764,7 @@
 
 【报名截止：7.11】[南京天光所](http://www.niaot.ac.cn/xwzx/tzgg/202406/t20240622_7194674.html)
 
-【报名截止：7.3】[北京纳米能源与系统研究所](http://www.binn.cas.cn/tzgg/tzgg/202405/t20240515_6967349.html)
+~~【报名截止：7.3】[北京纳米能源与系统研究所](http://www.binn.cas.cn/tzgg/tzgg/202405/t20240515_6967349.html)~~
 
 ~~【报名截止：7.1】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202405/t20240522_7168020.html)~~
 
@@ -862,9 +862,9 @@
 
 【报名截止：7.7】[机械工程学院](https://mp.weixin.qq.com/s/oWMLfk2N2LZaMp-K2LjvXw)
 
-【报名截止：7.3】[电气工程学院](https://ee.dlut.edu.cn/info/1193/8203.htm)
+~~【报名截止：7.3】[电气工程学院](https://ee.dlut.edu.cn/info/1193/8203.htm)~~
 
-【报名截止：7.3】[集成电路学院](https://smedut.dlut.edu.cn/info/1034/7367.htm)
+~~【报名截止：7.3】[集成电路学院](https://smedut.dlut.edu.cn/info/1034/7367.htm)~~
 
 ~~【报名截止：7.1】[医学部](https://med.dlut.edu.cn/info/1003/4747.htm)~~
 
@@ -893,6 +893,10 @@
 ~~【报名截止：6.25】[交通运输学院](https://trans.bjtu.edu.cn/cms/item/2765.html)~~
 
 ~~【报名截止：6.25】[系统科学学院](https://sss.bjtu.edu.cn/cms/item/23356.html)~~
+
+## 北京科技大学
+
+【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
 
 ## 昆山杜克大学
 
@@ -962,7 +966,7 @@
 
 【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
 
-【报名截止：7.3】[理学院](https://lxy.njupt.edu.cn/2024/0621/c2182a266487/page.htm)
+~~【报名截止：7.3】[理学院](https://lxy.njupt.edu.cn/2024/0621/c2182a266487/page.htm)~~
 
 ~~【报名截止：6.30】[材料科学与工程学院](https://iam.njupt.edu.cn/2024/0524/c6399a263724/page.htm)~~
 
@@ -975,6 +979,8 @@
 ## 南京理工大学
 
 > [南京理工大学夏令营信息](https://gs.njust.edu.cn/zsw/20/f0/c4587a336112/page.htm)
+
+【报名截止：7.20】[智能计算成像实验室](https://scilaboratory.com/h-nd-655.html)
 
 【报名截止：7.18】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/wpRMXnkXDZGZVZwU7FWuXQ)
 
@@ -1071,6 +1077,8 @@
 ## 哈尔滨工程大学
 
 > [哈尔滨工程大学夏令营信息](https://yzb.hrbeu.edu.cn/2023/0619/c3262a326982/page.htm)
+
+【报名截止：7.13】[信息与通信工程学院](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)
 
 【报名截止：7.5】[物理与光电工程学院](https://mp.weixin.qq.com/s/MeI5mRJNf_u_yipWpGQOzw)
 
@@ -1232,7 +1240,7 @@
 
 ## 武汉工程大学
 
-【报名截止：7.3】 [计算机科学与工程学院](https://cs.wit.edu.cn/info/1054/12078.htm)
+~~【报名截止：7.3】 [计算机科学与工程学院](https://cs.wit.edu.cn/info/1054/12078.htm)~~
 
 ## 华东理工大学
 
@@ -1308,7 +1316,7 @@
 
 【报名截止：7.5】 [仪器科学与光电工程学院](https://yqkx.hfut.edu.cn/2024/0618/c13124a304846/page.htm)
 
-【报名截止：7.2】 [电气与自动化工程学院](https://ea.hfut.edu.cn/info/1081/3310.htm)
+~~【报名截止：7.2】 [电气与自动化工程学院](https://ea.hfut.edu.cn/info/1081/3310.htm)~~
 
 ## 华中师范大学
 
@@ -1318,7 +1326,7 @@
 
 【报名截止：7.4】 [控制与计算机工程学院](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)
 
-【报名截止：7.1】 [电力工程系](https://ee.ncepu.edu.cn/tzgg3/5dc576828d194f908464095b91011721.htm)
+~~【报名截止：7.1】 [电力工程系](https://ee.ncepu.edu.cn/tzgg3/5dc576828d194f908464095b91011721.htm)~~
 
 ~~【报名截止：6.30】 [电气与电子工程学院](https://electric.ncepu.edu.cn/zsgz/bsyjszs/432f27cc7246428387d6078081e03515.htm)~~
 
