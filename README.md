@@ -512,7 +512,7 @@
 
 > [西北工业大学夏令营信息](https://yzb.nwpu.edu.cn/info/1174/9238.htm)
 
-【报名截止：7.5】[民航学院](https://minhang.nwpu.edu.cn/info/1150/10063.htm)
+~~【报名截止：7.5】[民航学院](https://minhang.nwpu.edu.cn/info/1150/10063.htm)~~
 
 ~~【报名截止：6.30】[海洋研究院](https://haiyang.nwpu.edu.cn/info/1034/3771.htm)~~
 
@@ -868,7 +868,7 @@
 
  > [大连理工大学夏令营信息](https://gs.dlut.edu.cn/info/1173/14706.htm)
 
-【报名截止：7.7】[机械工程学院](https://mp.weixin.qq.com/s/oWMLfk2N2LZaMp-K2LjvXw)
+~~【报名截止：7.7】[机械工程学院](https://mp.weixin.qq.com/s/oWMLfk2N2LZaMp-K2LjvXw)~~
 
 ~~【报名截止：7.3】[电气工程学院](https://ee.dlut.edu.cn/info/1193/8203.htm)~~
 
@@ -972,7 +972,11 @@
 
 ## 南京邮电大学
 
+【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
+
 【报名截止：7.14】[集成电路科学与工程学院](http://ic.njupt.edu.cn/2024/0628/c15125a267050/page.htm)
+
+【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
 
 【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
 
