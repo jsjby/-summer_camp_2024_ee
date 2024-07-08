@@ -792,7 +792,7 @@
 
 ~~【报名截止：6.30】[赣江创新研究院](https://mp.weixin.qq.com/s/f3EUhR9JkRhhAY5uJhpZvA)~~
 
-~~【报名截止：6.30】[紫金山天文台](http://www.pmo.cas.cn/gs/zs/xly/202405/t20240527_7173440.html)
+~~【报名截止：6.30】[紫金山天文台](http://www.pmo.cas.cn/gs/zs/xly/202405/t20240527_7173440.html)~~
 
 ~~【报名截止：6.28】[近代物理研究所](https://imp.cas.cn/edu/zsyds/zsdt/xlytz/202405/t20240522_7167873.html)~~
 
@@ -958,7 +958,7 @@
 
 > [大连海事大学夏令营信息](https://www.dlmu.edu.cn/info/1060/76078.htm)
 
-【报名截止：7.8】[信息科学技术学院](https://www.dlmu.edu.cn/info/1060/76078.htm)
+~~【报名截止：7.8】[信息科学技术学院](https://www.dlmu.edu.cn/info/1060/76078.htm)~~
 
 ~~【报名截止：6.30】[船舶电气工程学院](https://www.dlmu.edu.cn/info/1060/76078.htm)~~
 
@@ -1192,7 +1192,7 @@
 
 > [苏州大学夏令营信息](https://yjs.suda.edu.cn/b7/b6/c8386a571318/page.htm)
 
-【报名截止：7.7】[机电工程学院](https://jdxy.suda.edu.cn/c3/d7/c12042a574423/page.htm)
+~~【报名截止：7.7】[机电工程学院](https://jdxy.suda.edu.cn/c3/d7/c12042a574423/page.htm)~~
 
 【报名截止：7.16】[电子信息学院](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)
 
@@ -1212,7 +1212,7 @@
 
 【报名截止：7.16】[电子与光学工程学院、柔性电子（未来技术）学院](https://eoe.njupt.edu.cn/2024/0705/c9495a267423/page.htm)
 
-【报名截止：7.8】[通信与信息工程学院](https://mp.weixin.qq.com/s/duG4zpwjwS-BdfKkwIEBbQ)
+~~【报名截止：7.8】[通信与信息工程学院](https://mp.weixin.qq.com/s/duG4zpwjwS-BdfKkwIEBbQ)~~
 
 ## 湘潭大学
 
@@ -1220,7 +1220,7 @@
 
 ## 新疆大学
 
-【报名截止：7.7】[电气工程学院](https://dqxy.xju.edu.cn/info/1124/2222.htm)
+~~【报名截止：7.7】[电气工程学院](https://dqxy.xju.edu.cn/info/1124/2222.htm)~~
 
 ## 湖北文理学院
 
@@ -1370,7 +1370,7 @@
 
 ##  航天工程大学
 
-【报名截止：7.5】[航天工程大学](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)
+~~【报名截止：7.5】[航天工程大学](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)~~
 
 ##  航天二院
 
@@ -1379,6 +1379,10 @@
 ##  海军工程大学
 
 ~~【报名截止：7.2】[海军工程大学](https://mp.weixin.qq.com/s/SOmT4SSPJQATn3O8pbTMkA)~~
+
+##  兰州理工大学
+
+【报名截止：7.12】[电气工程与信息工程学院](https://dianqi.lut.edu.cn/info/1221/8823.htm)
 
 ##  中国铁道科学研究院
 
