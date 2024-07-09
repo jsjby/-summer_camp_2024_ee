@@ -228,7 +228,7 @@
 
 > [北京师范大学夏令营信息](https://yz.bnu.edu.cn/detail/0d44aa4c-df5a-43cb-8ea6-808edd09f332)
 
-【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
+~~【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)~~
 
 ~~【报名截止：6.23】[地理科学学部](https://geo.bnu.edu.cn/tzgg/075cd2367c9f4870920c37629fd4dccb.html)~~
 
@@ -972,6 +972,8 @@
 
 ## 南京邮电大学
 
+【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
+
 【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
 
 【报名截止：7.14】[集成电路科学与工程学院](http://ic.njupt.edu.cn/2024/0628/c15125a267050/page.htm)
@@ -1042,7 +1044,7 @@
 
 > [北京林业大学夏令营信息](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
 
-【报名截止：7.7】[信息学部信息科学技术学院](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
+~~【报名截止：7.7】[信息学部信息科学技术学院](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)~~
 
 ~~【报名截止：7.2】[物理与光电工程学院](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)~~
 
@@ -1158,6 +1160,8 @@
 
 ## 西南交通大学
 
+【报名截止：7.12】[唐山研究院](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)
+
 ~~【报名截止：6.26】[轨道交通运载系统全国重点实验室 ](https://rvl.swjtu.edu.cn/info/1046/11338.htm)~~
 
 ## 西南大学
@@ -1204,7 +1208,7 @@
 
 ~~【报名截止：6.25】[生物医学工程与技术学院](http://gs.tmu.edu.cn/2024/0617/c3146a73067/page.htm)~~
 
-##  重庆交通大学
+## 重庆交通大学
 
 > [重庆交通大学夏令营信息](https://yjszs.cqjtu.edu.cn/info/1050/2211.htm)
 
@@ -1359,6 +1363,12 @@
 ## 黑龙江大学
 
 【报名截止：N/A】 [电子工程学院](https://yjsy.hlju.edu.cn/info/1009/9670.htm)
+
+## 江苏大学
+
+【报名截止：7.15】 [科技信息研究所](https://lib.ujs.edu.cn/info/1131/22178.htm)
+
+【报名截止：7.11】 [物理与电子工程学院](https://phy.ujs.edu.cn/info/1004/27622.htm)
 
 ## 江苏师范大学
 
