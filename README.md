@@ -580,7 +580,7 @@
 
 【报名截止：7.15】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12526.htm)
 
-【报名截止：7.10】[机械学院](https://mse.hust.edu.cn/info/1181/15213.htm)
+~~【报名截止：7.10】[机械学院](https://mse.hust.edu.cn/info/1181/15213.htm)~~
 
 ~~【报名截止：7.4】[集成电路学院](https://ic.hust.edu.cn/info/1242/3460.htm)~~
 
@@ -980,7 +980,7 @@
 
 【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
 
-【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
+~~【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)~~
 
 ~~【报名截止：7.3】[理学院](https://lxy.njupt.edu.cn/2024/0621/c2182a266487/page.htm)~~
 
@@ -995,6 +995,8 @@
 ## 南京理工大学
 
 > [南京理工大学夏令营信息](https://gs.njust.edu.cn/zsw/20/f0/c4587a336112/page.htm)
+
+【报名截止：9.10】[能源与动力工程学院](https://nd.njust.edu.cn/21/9d/c1888a336285/page.htm)
 
 【报名截止：7.20】[智能计算成像实验室](https://scilaboratory.com/h-nd-655.html)
 
@@ -1021,6 +1023,8 @@
 ## 中国石油大学（华东）
 
 > [中国石油大学（华东）](http://zs.gs.upc.edu.cn/2024/0618/c10710a434335/page.htm)
+
+【报名截止：8.7】[新能源学院](https://ne.upc.edu.cn/2024/0710/c14962a435975/page.htm)
 
 ~~【报名截止：7.1】[石油工程学院](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)~~
 
