@@ -770,7 +770,7 @@
 
 【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
 
-【报名截止：7.11】[南京天光所](http://www.niaot.ac.cn/xwzx/tzgg/202406/t20240622_7194674.html)
+~~【报名截止：7.11】[南京天光所](http://www.niaot.ac.cn/xwzx/tzgg/202406/t20240622_7194674.html)~~
 
 ~~【报名截止：7.3】[北京纳米能源与系统研究所](http://www.binn.cas.cn/tzgg/tzgg/202405/t20240515_6967349.html)~~
 
@@ -877,6 +877,12 @@
 ~~【报名截止：7.1】[医学部](https://med.dlut.edu.cn/info/1003/4747.htm)~~
 
 ~~【报名截止：6.28】[物理学院](https://physics.dlut.edu.cn/info/1055/10904.htm)~~
+
+## 西安电子科技大学
+
+ > [西安电子科技大学夏令营信息](https://gr.xidian.edu.cn/info/1074/13515.htm)
+
+【报名截止：9.10】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
 ## 北京邮电大学
 
@@ -1018,7 +1024,11 @@
 
 ## 中国农业科学院
 
-【报名截止：7.11】[农业信息研究所](https://aii.caas.cn/yjspy/zsxx/e1b4de6b05a94ec4a556b0aed0665ac3.htm)
+~~【报名截止：7.11】[农业信息研究所](https://aii.caas.cn/yjspy/zsxx/e1b4de6b05a94ec4a556b0aed0665ac3.htm)~~
+
+## 中国电力科学研究院
+
+【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
 
 ## 中国石油大学（华东）
 
@@ -1103,6 +1113,8 @@
 > [哈尔滨工程大学夏令营信息](https://yzb.hrbeu.edu.cn/2023/0619/c3262a326982/page.htm)
 
 【报名截止：7.13】[信息与通信工程学院](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)
+
+~~【报名截止：7.7】[卓越工程师学院](https://ees.hit.edu.cn/2024/0704/c15565a348268/page.htm)~~
 
 ~~【报名截止：7.5】[物理与光电工程学院](https://mp.weixin.qq.com/s/MeI5mRJNf_u_yipWpGQOzw)~~
 
