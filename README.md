@@ -370,7 +370,7 @@
 
 【报名截止：N/A】[等离子体生物医学研究中心](http://cpb.xjtu.edu.cn/info/1002/1642.htm)
 
-【报名截止：7.10】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)
+~~【报名截止：7.10】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)~~
 
 ~~【报名截止：6.30】[新闻与新媒体学院](https://xmtxy.xjtu.edu.cn/info/1054/9931.htm)~~
 
@@ -910,7 +910,7 @@
 
 ## 北京科技大学
 
-【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
+~~【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)~~
 
 ## 昆山杜克大学
 
@@ -984,7 +984,7 @@
 
 【报名截止：7.14】[集成电路科学与工程学院](http://ic.njupt.edu.cn/2024/0628/c15125a267050/page.htm)
 
-【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
+~~【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)~~
 
 ~~【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)~~
 
@@ -1176,7 +1176,7 @@
 
 ## 西南交通大学
 
-【报名截止：7.12】[唐山研究院](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)
+~~【报名截止：7.12】[唐山研究院](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)~~
 
 ~~【报名截止：6.26】[轨道交通运载系统全国重点实验室 ](https://rvl.swjtu.edu.cn/info/1046/11338.htm)~~
 
@@ -1408,7 +1408,7 @@
 
 ##  兰州理工大学
 
-【报名截止：7.12】[电气工程与信息工程学院](https://dianqi.lut.edu.cn/info/1221/8823.htm)
+~~【报名截止：7.12】[电气工程与信息工程学院](https://dianqi.lut.edu.cn/info/1221/8823.htm)~~
 
 ##  中国铁道科学研究院
 
