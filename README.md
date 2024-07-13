@@ -126,7 +126,7 @@
 
 ## 复旦大学
 
-> ~~[复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)~~
+> [复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
 
 ~~【报名截止：5.31】[光科学与工程系](https://optics.fudan.edu.cn/49/66/c39767a674150/page.htm)~~
 
@@ -1384,7 +1384,7 @@
 
 【报名截止：7.15】 [科技信息研究所](https://lib.ujs.edu.cn/info/1131/22178.htm)
 
-【报名截止：7.11】 [物理与电子工程学院](https://phy.ujs.edu.cn/info/1004/27622.htm)
+~~【报名截止：7.11】 [物理与电子工程学院](https://phy.ujs.edu.cn/info/1004/27622.htm)~~
 
 ## 江苏师范大学
 
