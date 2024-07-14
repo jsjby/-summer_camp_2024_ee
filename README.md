@@ -982,7 +982,7 @@
 
 【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
 
-【报名截止：7.14】[集成电路科学与工程学院](http://ic.njupt.edu.cn/2024/0628/c15125a267050/page.htm)
+~~【报名截止：7.14】[集成电路科学与工程学院](http://ic.njupt.edu.cn/2024/0628/c15125a267050/page.htm)~~
 
 ~~【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)~~
 
@@ -1112,7 +1112,7 @@
 
 > [哈尔滨工程大学夏令营信息](https://yzb.hrbeu.edu.cn/2023/0619/c3262a326982/page.htm)
 
-【报名截止：7.13】[信息与通信工程学院](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)
+~~【报名截止：7.13】[信息与通信工程学院](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)~~
 
 ~~【报名截止：7.7】[卓越工程师学院](https://ees.hit.edu.cn/2024/0704/c15565a348268/page.htm)~~
 
@@ -1130,7 +1130,7 @@
 
 ## 上海大学
 
-【报名截止：7.14】[微电子学院](https://sme.shu.edu.cn/info/1030/4782.htm)
+~~【报名截止：7.14】[微电子学院](https://sme.shu.edu.cn/info/1030/4782.htm)~~
 
 ~~【报名截止：6.30】[材料基因组工程研究院](https://mgi.shu.edu.cn/info/1062/4735.htm)~~
 
@@ -1155,6 +1155,10 @@
 ## 上海财经大学
 
 > [上海财经大学夏令营信息](https://gs.sufe.edu.cn/Home/Detail/7620?Ucx7U9PTU3zV=1717081950822)
+
+## 上海航天技术研究院
+
+> [上海航天技术研究院夏令营信息](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
 
 ## 江南大学
 
