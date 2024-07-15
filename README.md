@@ -466,7 +466,7 @@
 
 ## 鹏城实验室
 
-【报名截止：7.14】[鹏城实验室](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+~~【报名截止：7.14】[鹏城实验室](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)~~
 
 ## 中山大学
 
@@ -736,7 +736,7 @@
 
 【报名截止：N/A】[大连化学物理研究所 陈忠伟院士团队](https://mp.weixin.qq.com/s/ufTx2uxoKwBDvxo9TKt7UQ)
 
-【报名截止：7.15】[空天信息创新研究院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)
+~~【报名截止：7.15】[空天信息创新研究院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
 
 ~~【报名截止：7.1】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/512-2024-6)~~
 
@@ -882,6 +882,8 @@
 
  > [西安电子科技大学夏令营信息](https://gr.xidian.edu.cn/info/1074/13515.htm)
 
+【报名截止：9.25】[集成电路学部](https://sme.xidian.edu.cn/html/tzgg/jl/2024/0714/2589.html)
+
 【报名截止：9.10】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
 ## 北京邮电大学
@@ -1008,7 +1010,7 @@
 
 【报名截止：7.18】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/wpRMXnkXDZGZVZwU7FWuXQ)
 
-【报名截止：7.15】[微电子学院（集成电路学院）](https://mp.weixin.qq.com/s/MhDUM4ali-xIjCcqGk-QlQ)
+~~【报名截止：7.15】[微电子学院（集成电路学院）](https://mp.weixin.qq.com/s/MhDUM4ali-xIjCcqGk-QlQ)~~
 
 ~~【报名截止：7.1】[机械工程学院](https://mp.weixin.qq.com/s/_sBe7TvLvUmMyRYZTSkifA)~~
 
@@ -1196,6 +1198,10 @@
 
 ~~【报名截止：6.10】[工学院](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
 
+## 西安建筑科技大学
+
+【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
+
 ## 浙江工业大学
 
 ~~【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)~~
@@ -1266,7 +1272,7 @@
 
 ## 上海航天技术研究院
 
-【报名截止：7.10】 [上海航天技术研究院](https://mp.weixin.qq.com/s/kPNS0Em0MLxOGAyYoqmomg)
+~~【报名截止：7.10】 [上海航天技术研究院](https://mp.weixin.qq.com/s/kPNS0Em0MLxOGAyYoqmomg)~~
 
 ## 陕西师范大学
 
@@ -1330,7 +1336,7 @@
 
 > [深圳大学夏令营信息](https://yz.szu.edu.cn/info/1041/12917.htm)
 
-【报名截止：7.14】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
+~~【报名截止：7.14】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
 ~~【报名截止：7.5】 [微纳光电子学研究院](https://mp.weixin.qq.com/s/-fmla2liF_ZChw119i8OCA)~~
 
@@ -1386,7 +1392,7 @@
 
 ## 江苏大学
 
-【报名截止：7.15】 [科技信息研究所](https://lib.ujs.edu.cn/info/1131/22178.htm)
+~~【报名截止：7.15】 [科技信息研究所](https://lib.ujs.edu.cn/info/1131/22178.htm)~~
 
 ~~【报名截止：7.11】 [物理与电子工程学院](https://phy.ujs.edu.cn/info/1004/27622.htm)~~
 
@@ -1404,7 +1410,7 @@
 
 ##  航天二院
 
-【报名截止：7.14】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
+~~【报名截止：7.14】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)~~
 
 ##  海军工程大学
 
@@ -1416,7 +1422,7 @@
 
 ##  中国铁道科学研究院
 
-【报名截止：7.15】[中国铁道科学研究院](https://mp.weixin.qq.com/s/GTIouQpgeAhnrhTFA4erxw)
+~~【报名截止：7.15】[中国铁道科学研究院](https://mp.weixin.qq.com/s/GTIouQpgeAhnrhTFA4erxw)~~
 
 ##  长江大学
 
