@@ -578,7 +578,7 @@
  
 ## 华中科技大学
 
-【报名截止：7.15】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12526.htm)
+~~【报名截止：7.15】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12526.htm)~~
 
 ~~【报名截止：7.10】[机械学院](https://mse.hust.edu.cn/info/1181/15213.htm)~~
 
@@ -882,9 +882,13 @@
 
  > [西安电子科技大学夏令营信息](https://gr.xidian.edu.cn/info/1074/13515.htm)
 
+【报名截止：9.30】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)
+
 【报名截止：9.25】[集成电路学部](https://sme.xidian.edu.cn/html/tzgg/jl/2024/0714/2589.html)
 
 【报名截止：9.10】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
+
+【报名截止：9.2】[通信工程学院](https://ste.xidian.edu.cn/info/1337/8386.htm)
 
 ## 北京邮电大学
 
