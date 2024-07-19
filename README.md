@@ -768,6 +768,8 @@
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
+【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
+
 【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
 
 ~~【报名截止：7.11】[南京天光所](http://www.niaot.ac.cn/xwzx/tzgg/202406/t20240622_7194674.html)~~
@@ -982,11 +984,13 @@
 
 【报名截止：N/A】[网络空间安全学院](https://cbs.hdu.edu.cn/2024/0620/c2594a266529/page.htm)
 
+【报名截止：7.28】[通信工程学院](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)
+
 ## 南京邮电大学
 
 【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
 
-【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
+~~【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)~~
 
 ~~【报名截止：7.14】[集成电路科学与工程学院](http://ic.njupt.edu.cn/2024/0628/c15125a267050/page.htm)~~
 
@@ -1012,7 +1016,7 @@
 
 【报名截止：7.20】[智能计算成像实验室](https://scilaboratory.com/h-nd-655.html)
 
-【报名截止：7.18】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/wpRMXnkXDZGZVZwU7FWuXQ)
+~~【报名截止：7.18】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/wpRMXnkXDZGZVZwU7FWuXQ)~~
 
 ~~【报名截止：7.15】[微电子学院（集成电路学院）](https://mp.weixin.qq.com/s/MhDUM4ali-xIjCcqGk-QlQ)~~
 
@@ -1206,6 +1210,14 @@
 
 【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
 
+## 西北大学
+
+【报名截止：9.20】[西北大学](https://mp.weixin.qq.com/s/oUzGyOcaM_pS6kz8NXuiUw)
+
+## 山东第一医科大学
+
+【报名截止：8.11】[人工智能与大数据学院](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)
+
 ## 浙江工业大学
 
 ~~【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)~~
@@ -1228,7 +1240,7 @@
 
 ~~【报名截止：7.7】[机电工程学院](https://jdxy.suda.edu.cn/c3/d7/c12042a574423/page.htm)~~
 
-【报名截止：7.16】[电子信息学院](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)
+~~【报名截止：7.16】[电子信息学院](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)~~
 
 ~~【报名截止：7.1】[轨道交通学院](https://jtxy.suda.edu.cn/c5/e4/c8283a574948/page.htm)~~
 
@@ -1244,7 +1256,7 @@
 
 ## 重庆邮电大学
 
-【报名截止：7.16】[电子与光学工程学院、柔性电子（未来技术）学院](https://eoe.njupt.edu.cn/2024/0705/c9495a267423/page.htm)
+~~【报名截止：7.16】[电子与光学工程学院、柔性电子（未来技术）学院](https://eoe.njupt.edu.cn/2024/0705/c9495a267423/page.htm)~~
 
 ~~【报名截止：7.8】[通信与信息工程学院](https://mp.weixin.qq.com/s/duG4zpwjwS-BdfKkwIEBbQ)~~
 
