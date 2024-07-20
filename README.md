@@ -918,6 +918,8 @@
 
 ## 北京科技大学
 
+> [北京科技大学推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+
 ~~【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)~~
 
 ## 昆山杜克大学
