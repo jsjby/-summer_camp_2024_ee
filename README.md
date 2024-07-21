@@ -88,6 +88,10 @@
 
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
+【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+
+【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+
 ~~【报名截止：6.24】[医学院松江研究院](https://mp.weixin.qq.com/s/lWtXrL-lkkyFCBJ8Qbf6ww)~~
 
 ~~【报名截止：6.24】[电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10117.html)~~
@@ -1029,6 +1033,8 @@
 ~~【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
 ## 南京农业大学
+
+> [南京农业大学预推免](https://zsgz.njau.edu.cn/info/1007/1571.htm)
 
 ~~【报名截止：7.1】[人工智能学院](https://ai.njau.edu.cn/info/1009/3502.htm)~~
 
