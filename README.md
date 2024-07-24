@@ -232,6 +232,8 @@
 
 > [北京师范大学夏令营信息](https://yz.bnu.edu.cn/detail/0d44aa4c-df5a-43cb-8ea6-808edd09f332)
 
+【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
+
 ~~【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)~~
 
 ~~【报名截止：6.23】[地理科学学部](https://geo.bnu.edu.cn/tzgg/075cd2367c9f4870920c37629fd4dccb.html)~~
@@ -421,6 +423,8 @@
 > [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：暂无】[电子工程与信息科学系](https://eeis.ustc.edu.cn/2024/0603/c2702a642819/page.htm)
+
+【报名截止：8.30】[火灾实验室（安全科学与工程）](https://sklfs.ustc.edu.cn/2024/0722/c5895a648166/page.htm)
 
 ~~【报名截止：7.5】[自动化系](https://auto.ustc.edu.cn/2024/0603/c26085a642769/page.htm)~~
 
@@ -768,6 +772,8 @@
 
 【报名截止：N/A】[微小卫星创新研究院](https://mp.weixin.qq.com/s/up6icXQZgv_NV1Yzr_Rlqg)
 
+【报名截止：N/A】[空天院网络信息体系技术重点实验室](https://mp.weixin.qq.com/s/HyKxgP4GjInUqSKuVxMZdQ)
+
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
@@ -994,7 +1000,7 @@
 
 ## 南京邮电大学
 
-【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
+~~【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)~~
 
 ~~【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)~~
 
@@ -1020,7 +1026,7 @@
 
 【报名截止：9.10】[能源与动力工程学院](https://nd.njust.edu.cn/21/9d/c1888a336285/page.htm)
 
-【报名截止：7.20】[智能计算成像实验室](https://scilaboratory.com/h-nd-655.html)
+~~【报名截止：7.20】[智能计算成像实验室](https://scilaboratory.com/h-nd-655.html)~~
 
 ~~【报名截止：7.18】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/wpRMXnkXDZGZVZwU7FWuXQ)~~
 
@@ -1125,6 +1131,10 @@
 ~~【报名截止：6.19】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8240.htm)~~
 
 ~~【报名截止：6.18】[集成电路学院](https://sme.gdut.edu.cn/info/1178/3965.htm)~~
+
+## 西北大学
+
+> [西北大学预推免信息](https://yjs.nwu.edu.cn/info/1104/4676.htm)
 
 ## 哈尔滨工程大学
 
@@ -1245,6 +1255,8 @@
 ## 苏州大学
 
 > [苏州大学夏令营信息](https://yjs.suda.edu.cn/b7/b6/c8386a571318/page.htm)
+
+> [苏州大学推免信息](https://yjs.suda.edu.cn/e6/4b/c8386a583243/page.htm)
 
 ~~【报名截止：7.7】[机电工程学院](https://jdxy.suda.edu.cn/c3/d7/c12042a574423/page.htm)~~
 
