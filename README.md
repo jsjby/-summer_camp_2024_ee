@@ -1448,6 +1448,10 @@
 
 ~~【报名截止：7.4】[火箭军工程大学](https://mp.weixin.qq.com/s/X-wJKYOVX982AlS4Ym0GFA)~~
 
+## 空军工程大学
+
+【报名截止：8.8】 [空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)
+
 ##  航天工程大学
 
 ~~【报名截止：7.5】[航天工程大学](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)~~
