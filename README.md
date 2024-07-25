@@ -90,7 +90,7 @@
 
 【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
 
-【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+~~【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
 ~~【报名截止：6.24】[医学院松江研究院](https://mp.weixin.qq.com/s/lWtXrL-lkkyFCBJ8Qbf6ww)~~
 
@@ -338,6 +338,8 @@
 
 >  [天津大学夏令营](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
+【报名截止：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
+
 ~~【报名截止：6.26】[中国五矿校企联合培养专项](https://tjusee.tju.edu.cn/info/1126/3192.htm)~~
 
 ~~【报名截止：6.20】[自动化学院](https://seea.tju.edu.cn/info/1031/4573.htm)~~
@@ -556,6 +558,8 @@
 
 ~~> [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)~~
 
+【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
+
 ~~【报名截止：6.7】[汽车工程学院（威海）](https://auto.hitwh.edu.cn/2024/0520/c189a183043/page.htm)~~
 
 ~~【报名截止：6.7】[航天学院](https://sa.hit.edu.cn/2024/0518/c6582a344973/page.htm)~~
@@ -605,6 +609,8 @@
 ~~【报名截止：6.23】[中欧清洁与可再生能源学院](http://icare.hust.edu.cn/info/1031/8387.htm)~~
 
 ## 国防科技大学
+
+ > [国防科技大学预推免信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
 
 ~~【报名截止：7.5】[前沿交叉学科学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13829)~~
 
@@ -775,6 +781,8 @@
 【报名截止：N/A】[空天院网络信息体系技术重点实验室](https://mp.weixin.qq.com/s/HyKxgP4GjInUqSKuVxMZdQ)
 
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
+
+【报名截止：8.26】[上海高等研究院光源科学中心](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202407/t20240725_7235570.html)
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
