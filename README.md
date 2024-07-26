@@ -560,6 +560,8 @@
 
 【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
+【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
+
 ~~【报名截止：6.7】[汽车工程学院（威海）](https://auto.hitwh.edu.cn/2024/0520/c189a183043/page.htm)~~
 
 ~~【报名截止：6.7】[航天学院](https://sa.hit.edu.cn/2024/0518/c6582a344973/page.htm)~~
@@ -741,6 +743,8 @@
 ~~【报名截止：6.14】[秦皇岛分校光学工程学科](https://graduate.neuq.edu.cn/info/1099/4836.htm)~~
 
 ## 兰州大学
+
+ > [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
 
 ~~【报名截止：6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html)~~
 
@@ -1463,6 +1467,10 @@
 ##  海军工程大学
 
 ~~【报名截止：7.2】[海军工程大学](https://mp.weixin.qq.com/s/SOmT4SSPJQATn3O8pbTMkA)~~
+
+## 中国人民解放军军事科学院
+
+【报名截止：8.7】[军事科学院](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
 
 ##  兰州理工大学
 
