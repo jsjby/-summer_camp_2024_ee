@@ -560,6 +560,8 @@
 
 > [哈尔滨工业大学预推免消息](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
 
+【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2024/0730/c17968a349567/page.htm)
+
 【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
 【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
@@ -662,6 +664,12 @@
 
 ## 东北大学
 
+> [东北大学夏令营信息](http://yz.neu.edu.cn/2024/0606/c5932a256581/pagem.htm)
+
+> [东北大学预推免信息](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
+
+~~【报名截止：6.14】[秦皇岛分校光学工程学科](https://graduate.neuq.edu.cn/info/1099/4836.htm)~~
+
 ~~【报名截止：6.30】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm)~~
 
 ~~【报名截止：6.26】[机械工程与自动化学院](http://www.me.neu.edu.cn/2024/0612/c3402a256877/page.htm)~~
@@ -738,12 +746,6 @@
 
 ~~【报名截止：6.20】[土木工程学院](https://civil.cqu.edu.cn/info/1493/16848.htm)~~
 
-## 东北大学
-
- > [东北大学夏令营信息](http://yz.neu.edu.cn/2024/0606/c5932a256581/pagem.htm)
-
-~~【报名截止：6.14】[秦皇岛分校光学工程学科](https://graduate.neuq.edu.cn/info/1099/4836.htm)~~
-
 ## 兰州大学
 
  > [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
@@ -755,6 +757,8 @@
 ## 中国科学院大学
 
 【报名截止：N/A】[大连化学物理研究所 陈忠伟院士团队](https://mp.weixin.qq.com/s/ufTx2uxoKwBDvxo9TKt7UQ)
+
+【报名截止：N/A】[核科学与技术学院](https://nuclear.ucas.ac.cn/index.php/zh-cn/zsjy/zs/bkxz/4200-tm1tz)
 
 ~~【报名截止：7.15】[空天信息创新研究院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
 
@@ -892,7 +896,9 @@
 
 ## 大连理工大学
 
- > [大连理工大学夏令营信息](https://gs.dlut.edu.cn/info/1173/14706.htm)
+> [大连理工大学夏令营信息](https://gs.dlut.edu.cn/info/1173/14706.htm)
+
+> [大连理工大学预推免信息](https://gs.dlut.edu.cn/info/1173/14906.htm)
 
 ~~【报名截止：7.7】[机械工程学院](https://mp.weixin.qq.com/s/oWMLfk2N2LZaMp-K2LjvXw)~~
 
@@ -1212,6 +1218,10 @@
 
 ~~【报名截止：6.23】[机械工程学院](https://sme.jiangnan.edu.cn/info/1070/7218.htm)~~
 
+## 内蒙古大学
+
+【报名截止：8.5】[生物医学研究院](https://swyxyjy.imu.edu.cn/info/1146/1446.htm)
+
 ## 暨南大学
 
 ~~【报名截止：6.25】[信息科学技术学院/网络空间安全学院](https://mp.weixin.qq.com/s/72RhYoJ9sOto5IhI-faTPA)~~
@@ -1461,6 +1471,10 @@
 ##  中国人民解放军海军工程大学
 
 【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
+
+##  中国人民解放军信息工程大学
+
+【报名截止：9.25】[信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
 
 ##  航天工程大学
 
