@@ -274,6 +274,8 @@
 
 【报名截止：N/A】[集成电路科学与工程学院](https://icse.uestc.edu.cn/info/1057/5378.htm)
 
+【报名截止：8.28】[电子科学与工程学院](https://www.ese.uestc.edu.cn/info/5085/21377.htm)
+
 ~~【报名截止：6.28】[自动化工程学院](https://www.auto.uestc.edu.cn/info/1045/6663.htm)~~
 
 ~~【报名截止：6.28】[电子科学技术研究院](https://www.riest.uestc.edu.cn/info/1021/2978.htm)~~
@@ -330,7 +332,7 @@
 
 【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
-【报名截止：7.31】[仪器科学与工程学院](https://ins.seu.edu.cn/2024/0624/c26759a495168/page.psp)
+~~【报名截止：7.31】[仪器科学与工程学院](https://ins.seu.edu.cn/2024/0624/c26759a495168/page.psp)~~
 
 ~~【报名截止：6.27】[土木工程学院](https://civil.seu.edu.cn/2024/0617/c20024a494297/page.htm)~~
 
@@ -924,9 +926,9 @@
 
 ## 北京邮电大学
 
-【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)
+~~【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)~~
 
-【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
+~~【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)~~
 
 ~~【报名截止：6.25】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5595.htm)~~
 
@@ -992,6 +994,8 @@
 
 ## 上海科技大学
 
+【报名截止：9.20】[信息学院](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)
+
 ~~【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)~~
 
 ~~【报名截止：6.30】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)~~
@@ -1016,7 +1020,7 @@
 
 【报名截止：N/A】[网络空间安全学院](https://cbs.hdu.edu.cn/2024/0620/c2594a266529/page.htm)
 
-【报名截止：7.28】[通信工程学院](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)
+~~【报名截止：7.28】[通信工程学院](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)~~
 
 ## 南京邮电大学
 
@@ -1112,6 +1116,8 @@
 
 > [北京工商大学](https://yjs.btbu.edu.cn/zsgz/sszs/616b717e406643429ea1cdf6b921828a.htm)
 
+【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
+
 ## 北京电子科技学院
 
 > [北京电子科技学院夏令营信息](https://www.besti.edu.cn/221/2094.html)
@@ -1139,6 +1145,10 @@
 ## 首都体育学院
 
 ~~【报名截止：6.28】[体育人工智能研究院](https://mp.weixin.qq.com/s/Gd4M6Mt7_cDL5dE3j-AHZg)~~
+
+##  新乡医学院
+
+【报名截止：8.10】[医学工程学院](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)
 
 ## 广东工业大学
 
@@ -1235,6 +1245,12 @@
 ~~【报名截止：7.12】[唐山研究院](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)~~
 
 ~~【报名截止：6.26】[轨道交通运载系统全国重点实验室 ](https://rvl.swjtu.edu.cn/info/1046/11338.htm)~~
+
+## 西安财经大学
+
+> [西安财经大学预推免信息](https://yz.swufe.edu.cn/info/1101/12151.htm)
+
+【报名截止：8.31】[计算机与人工智能学院](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2025/02_jt/01bm/yxsxz/011.pdf)
 
 ## 西南大学
 
