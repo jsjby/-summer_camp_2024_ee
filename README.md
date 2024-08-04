@@ -942,6 +942,8 @@
 
 【报名截止：9.25】[集成电路学部](https://sme.xidian.edu.cn/html/tzgg/jl/2024/0714/2589.html)
 
+【报名截止：9.25】[​生命科学技术学院](https://life.xidian.edu.cn/info/1048/6911.htm)
+
 【报名截止：9.10】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
 【报名截止：9.2】[通信工程学院](https://ste.xidian.edu.cn/info/1337/8386.htm)
@@ -1019,6 +1021,8 @@
 ## 上海科技大学
 
 【报名截止：9.20】[信息学院](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)
+
+【报名截止：9.9】[信息科学与技术学院（工程博士）](https://mp.weixin.qq.com/s/QHy3-Qz4fp1KlUBIlg9BXA)
 
 ~~【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)~~
 
