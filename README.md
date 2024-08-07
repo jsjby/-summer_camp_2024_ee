@@ -118,6 +118,8 @@
 
 > [南京大学预推免消息](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
 
+【报名截止：9.8】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)
+
 ~~【报名截止：6.24】[地理与海洋科学学院](https://sgos.nju.edu.cn/91/17/c8417a692503/page.htm)~~
 
 ~~【报名截止：6.15】[功能材料与智能制造研究院](https://eng.nju.edu.cn/75/b2/c4968a685490/page.htm)~~
@@ -247,6 +249,8 @@
 > [浙江大学夏令营信息](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28487a2921525/page.htm)
 
 > [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
+
+【报名截止：9.10】[信电学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
 ~~【报名截止：6.27】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)~~
 
@@ -1030,6 +1034,8 @@
 
 【报名截止：9.20】[信息学院](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)
 
+【报名截止：9.18】[物质科学与技术学院](https://mp.weixin.qq.com/s/peEFYTQxa0feBJ2lU8hV9A)
+
 【报名截止：9.9】[信息科学与技术学院（工程博士）](https://mp.weixin.qq.com/s/QHy3-Qz4fp1KlUBIlg9BXA)
 
 【报名截止：9.1】[生物医学工程学院](https://mp.weixin.qq.com/s/VXEDVffNuJ35tzpaYm7yVw)
@@ -1255,6 +1261,10 @@
 ## 上海航天技术研究院
 
 > [上海航天技术研究院夏令营信息](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
+
+## 东华大学
+
+> [东华大学预推免信息](https://yjszs.dhu.edu.cn/2024/0807/c7127a349630/page.htm)
 
 ## 江南大学
 
