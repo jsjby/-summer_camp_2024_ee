@@ -830,6 +830,8 @@
 
 【报名截止：N/A】[空天院网络信息体系技术重点实验室](https://mp.weixin.qq.com/s/HyKxgP4GjInUqSKuVxMZdQ)
 
+【报名截止：N/A】[空天信息创新研究院](https://mp.weixin.qq.com/s/rIplyOL-qVYyMMA1RptZ7Q)
+
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
 【报名截止：8.26】[上海高等研究院光源科学中心](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202407/t20240725_7235570.html)
