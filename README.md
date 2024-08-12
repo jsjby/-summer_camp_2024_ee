@@ -252,6 +252,8 @@
 
 【报名截止：9.10】[信电学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
+【报名截止：9.10】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3498.html)
+
 【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
 
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
@@ -594,6 +596,8 @@
 
 > [哈尔滨工业大学（威海）预推免消息](https://yjsc.hitwh.edu.cn/2024/0805/c934a185979/page.htm)
 
+> [哈尔滨工业大学（深圳）预推免消息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=9583acaddb384fc4b31eced3a39df7be&xxlm=04)
+
 【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2024/0730/c17968a349567/page.htm)
 
 【报名截止：N/A】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0801/c17101a349641/page.htm)
@@ -603,6 +607,8 @@
 【报名截止：N/A】[新能源学院（威海）](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)
 
 【报名截止：N/A】[（威海） 计算机科学与技术学院](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
+
+【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
 
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
@@ -846,7 +852,7 @@
 
 【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
 
-【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
+~~【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)~~
 
 ~~【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)~~
 
@@ -1005,6 +1011,8 @@
 > [北京科技大学推免信息](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
 
 【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
+
+【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
 
 ~~【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)~~
 
@@ -1210,6 +1218,10 @@
 
 ~~【报名截止：8.10】[医学工程学院](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)~~
 
+## 暨南大学
+
+> [暨南大学预推免信息](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
+
 ## 广东工业大学
 
 ~~【报名截止：6.30】[物理与光电工程学院](https://wlgdxy.gdut.edu.cn/info/1033/3417.htm)~~
@@ -1245,6 +1257,10 @@
 ## 中国地质大学（武汉）
 
 ~~【报名截止：6.20】[机电学院](https://jidian.cug.edu.cn/info/1097/7424.htm)~~
+
+##  中国航空工业集团公司
+
+> [西安飞行自动控制研究所](https://mp.weixin.qq.com/s/fgszexKIliZSSVGMWN4gfA)
 
 ## 上海大学
 
