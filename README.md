@@ -610,6 +610,8 @@
 
 【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
 
+【报名截止：N/A】[交通科学与工程学院](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
+
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
 ~~【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
@@ -1493,6 +1495,8 @@
 ## 深圳大学
 
 > [深圳大学夏令营信息](https://yz.szu.edu.cn/info/1041/12917.htm)
+
+> [深圳大学预推免信息](https://yz.szu.edu.cn/info/1041/12989.htm)
 
 ~~【报名截止：7.14】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
