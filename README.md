@@ -4,9 +4,27 @@
 
 ## 清华大学
 
+> [清华大学预推免信息](https://yz.tsinghua.edu.cn/info/1008/2796.htm) | > [清华大学博士各学院预推免信息](https://yz.tsinghua.edu.cn/info/1010/2808.htm)
+
+> 申请服务系统定于2024年8月23日12:00开放，2024年9月2日12:00关闭
+
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
+
+【报名截止：9.2】[深圳国际研究生院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+
+【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
+
+【报名截止：9.2】[电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
+
+【报名截止：9.2】[航天航空学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e15a9be3-6a1c-4fef-957e-073f2e83e04c?yxsdm=031)
+
+【报名截止：9.2】[交叉信息研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)
+
+【报名截止：9.2】[人工智能学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)
+
+【报名截止：9.2】[集成电路学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/3006c6a4-d2d0-4feb-a052-322a6644e4b7?yxsdm=026)
 
 ~~【报名截止：6.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)~~
 
