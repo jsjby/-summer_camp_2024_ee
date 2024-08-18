@@ -26,6 +26,8 @@
 
 【报名截止：9.2】[集成电路学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/3006c6a4-d2d0-4feb-a052-322a6644e4b7?yxsdm=026)
 
+【报名截止：9.2】[集成电路学院集成电路创新博士班](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)
+
 ~~【报名截止：6.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)~~
 
 ~~【报名截止：6.23】[生命科学联合中心](http://www.cls.edu.cn/info/1272/4595.htm)~~
@@ -390,7 +392,7 @@
 
 【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
-【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)
+~~【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)~~
 
 ~~【报名截止：6.26】[中国五矿校企联合培养专项](https://tjusee.tju.edu.cn/info/1126/3192.htm)~~
 
@@ -631,6 +633,8 @@
 【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
 
 【报名截止：N/A】[交通科学与工程学院](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
+
+【报名截止：N/A】[（深圳）空间科学与应用技术研究院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
 
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
