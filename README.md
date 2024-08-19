@@ -2,6 +2,14 @@
 
 ## 夏令营链接
 
+:bangbang: **通信保研QQ群** &nbsp; 能源动力类保研交流群：1005716818   <br />
+
+:bangbang: **能源动力保研QQ群** &nbsp; 能源动力类保研交流群：151217421    <br />
+
+:bangbang: **电子电气保研QQ群** &nbsp; 电子通信类保研交流群：553151379    <br />
+
+:bangbang: **机械自动化保研QQ群** &nbsp; 机械自动化类保研交流群：926280979    <br />   
+
 ## 清华大学
 
 > [清华大学预推免信息](https://yz.tsinghua.edu.cn/info/1008/2796.htm) | > [清华大学博士各学院预推免信息](https://yz.tsinghua.edu.cn/info/1010/2808.htm)
