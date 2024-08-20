@@ -646,6 +646,8 @@
 
 【报名截止：N/A】[（深圳）空间科学与应用技术研究院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
 
+【报名截止：N/A】[（深圳）机电工程与自动化学院](http://smea.hitsz.edu.cn/info/1014/2531.htm)
+
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
 ~~【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
@@ -673,6 +675,8 @@
 ## 华南理工大学
 
 > [华南理工大学夏令营信息](https://yz.scut.edu.cn/2024/0611/c30108a556189/page.htm)
+
+> [华南理工大学2025年接收推免预报名公告](https://yz.scut.edu.cn/2024/0819/c30674a559796/page.htm)
 
 【报名截止：N/A】[工程硕博士培养改革专项](https://yz.scut.edu.cn/2024/0816/c30108a559743/page.htm)
 
@@ -894,7 +898,11 @@
 
 【报名截止：9.24】[上海应用物理研究所](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
 
+【报名截止：9.16】[精密测量科学与技术创新研究院](http://apm.cas.cn/zs/202408/t20240819_7290488.html)
+
 【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
+
+【报名截止：8.30】[自动化研究所](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
 
 【报名截止：8.26】[上海高等研究院光源科学中心](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202407/t20240725_7235570.html)
 
@@ -1125,6 +1133,10 @@
 ~~【报名截止：7.8】[信息科学技术学院](https://www.dlmu.edu.cn/info/1060/76078.htm)~~
 
 ~~【报名截止：6.30】[船舶电气工程学院](https://www.dlmu.edu.cn/info/1060/76078.htm)~~
+
+## 广州国家实验室
+
+> [广州国家实验室预推免信息](https://mp.weixin.qq.com/s/qGsHrkoL3_brCQV-oJtaJA)
 
 ## 武汉理工大学
 
