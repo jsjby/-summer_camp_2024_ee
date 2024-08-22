@@ -20,6 +20,10 @@
 
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
+【报名截止：9.2】[鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
+
+【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
+
 【报名截止：9.2】[深圳国际研究生院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
 
 【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
@@ -224,7 +228,7 @@
 
 > [北航夏令营信息](https://mp.weixin.qq.com/s/Xmpb74tyPoDMKTWwl7i2jQ)
 
-【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)
+~~【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
 ~~【报名截止：7.2】[自动化科学与电气工程](https://dept3.buaa.edu.cn/info/1066/6352.htm)~~
 
@@ -266,7 +270,7 @@
 
 > [北京师范大学夏令营信息](https://yz.bnu.edu.cn/detail/0d44aa4c-df5a-43cb-8ea6-808edd09f332)
 
-【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
+~~【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
 ~~【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)~~
 
@@ -422,7 +426,7 @@
 
 ## 同济大学
 
-【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)
+~~【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
 ~~【报名截止：6.20】[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)~~
 
@@ -786,7 +790,9 @@
 
 ## 山东大学
 
- > [山东大学夏令营信息](https://yz.sdu.edu.cn/info/1009/5868.htm)
+> [山东大学夏令营信息](https://yz.sdu.edu.cn/info/1009/5868.htm)
+
+> [山东大学预推免信息](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
 
 ~~【报名截止：7.5】[激光与红外系统集成技术教育部重点实验室](https://lit.qd.sdu.edu.cn/info/1016/1911.htm)~~
 
@@ -897,6 +903,8 @@
 【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)
 
 【报名截止：9.24】[上海应用物理研究所](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
+
+【报名截止：9.23】[电工研究所](https://iee.cas.cn/yjsjy/zsgg/2024zsgg/202408/t20240821_7305858.html)
 
 【报名截止：9.16】[精密测量科学与技术创新研究院](http://apm.cas.cn/zs/202408/t20240819_7290488.html)
 
@@ -1248,7 +1256,7 @@
 
 > [北京工商大学](https://yjs.btbu.edu.cn/zsgz/sszs/616b717e406643429ea1cdf6b921828a.htm)
 
-【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
+~~【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)~~
 
 ## 北京电子科技学院
 
@@ -1410,6 +1418,8 @@
 
 > [西湖大学夏令营信息](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
 
+> [西湖大学预推免信息](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
+
 ~~【报名截止：6.10】[工学院](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
 
 ## 西安建筑科技大学
@@ -1527,6 +1537,8 @@
 ## 华东理工大学
 
 > [华东理工大学夏令营信息](https://gschool.ecust.edu.cn/2024/0524/c12754a167858/page.htm)
+
+> [华东理工大学预推免信息](https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm)
 
 ~~【报名截止：6.20】 [信息科学与工程学院](https://cise.ecust.edu.cn/2024/0525/c7692a167872/page.psp)~~
 
