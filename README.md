@@ -24,7 +24,11 @@
 
 【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
 
-【报名截止：9.2】[深圳国际研究生院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+【报名截止：9.2】[SIGS-IMDT](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
+
+【报名截止：9.2】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
+
+【报名截止：9.2】[深圳国际研究生院博士招生](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
 
 【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
 
@@ -858,6 +862,8 @@
 
 【报名截止：N/A】[核科学与技术学院](https://nuclear.ucas.ac.cn/index.php/zh-cn/zsjy/zs/bkxz/4200-tm1tz)
 
+【报名截止：9.10】[电子电气与通信工程学院](https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2535-2025)
+
 ~~【报名截止：7.15】[空天信息创新研究院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
 
 ~~【报名截止：7.1】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/512-2024-6)~~
@@ -906,11 +912,15 @@
 
 【报名截止：9.23】[电工研究所](https://iee.cas.cn/yjsjy/zsgg/2024zsgg/202408/t20240821_7305858.html)
 
+【报名截止：9.23】[国家授时中心](http://www.ntsc.cas.cn/xwzx_/tzgg/202408/t20240823_7309806.html)
+
 【报名截止：9.16】[精密测量科学与技术创新研究院](http://apm.cas.cn/zs/202408/t20240819_7290488.html)
 
 【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
 
 【报名截止：8.30】[自动化研究所](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
+
+【报名截止：8.29】[心理研究所](http://www.psych.cas.cn/edu/zsxx/sszs/202408/t20240823_7310060.html)
 
 【报名截止：8.26】[上海高等研究院光源科学中心](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202407/t20240725_7235570.html)
 
@@ -1018,6 +1028,8 @@
 
 > [大连理工大学预推免信息](https://gs.dlut.edu.cn/info/1173/14906.htm)
 
+【报名截止：9.15】[电气工程学院](https://ee.dlut.edu.cn/info/1203/8773.htm)
+
 ~~【报名截止：7.7】[机械工程学院](https://mp.weixin.qq.com/s/oWMLfk2N2LZaMp-K2LjvXw)~~
 
 ~~【报名截止：7.3】[电气工程学院](https://ee.dlut.edu.cn/info/1193/8203.htm)~~
@@ -1075,6 +1087,8 @@
 【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
 【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
+
+【报名截止：8.30】[前沿交叉科学技术研究院 ](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)
 
 【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
 
