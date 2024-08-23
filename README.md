@@ -220,6 +220,8 @@
 
 > [南开大学夏令营信息](https://yzb.nankai.edu.cn/2024/0607/c5508a545190/page.htm)
 
+【报名截止：9.5】[物理科学学院](https://physics.nankai.edu.cn/2024/0823/c576a549040/page.htm)
+
 ~~【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)~~
 
 ~~【报名截止：6.15】[环境科学与工程学院](https://env.nankai.edu.cn/2024/0601/c12945a544721/page.htm)~~
