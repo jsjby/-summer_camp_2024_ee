@@ -172,6 +172,8 @@
 
 > [复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
 
+【报名截止：9.2】[工程硕博士](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)
+
 ~~【报名截止：5.31】[光科学与工程系](https://optics.fudan.edu.cn/49/66/c39767a674150/page.htm)~~
 
 ~~【报名截止：5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/5380.htm)~~
