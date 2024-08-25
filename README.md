@@ -14,11 +14,15 @@
 
 > [清华大学预推免信息](https://yz.tsinghua.edu.cn/info/1008/2796.htm) | > [清华大学博士各学院预推免信息](https://yz.tsinghua.edu.cn/info/1010/2808.htm)
 
+[清华大学深圳国际研究生院招生专业目录](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95819/page.htm) 
+
 > 申请服务系统定于2024年8月23日12:00开放，2024年9月2日12:00关闭
 
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
+
+【报名截止：9.2】[国家卓越工程师学院国重项目](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)
 
 【报名截止：9.2】[鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
 
@@ -124,7 +128,7 @@
 
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
-【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+~~【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
 ~~【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
@@ -643,6 +647,8 @@
 > [哈尔滨工业大学（深圳）预推免消息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=9583acaddb384fc4b31eced3a39df7be&xxlm=04)
 
 【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2024/0730/c17968a349567/page.htm)
+
+【报名截止：N/A】[（深圳）电子与信息工程学院](http://eie.hitsz.edu.cn/info/1007/2631.htm)
 
 【报名截止：N/A】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0801/c17101a349641/page.htm)
 
