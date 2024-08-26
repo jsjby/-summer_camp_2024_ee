@@ -30,6 +30,8 @@
 
 【报名截止：9.2】[SIGS-IMDT](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
 
+【报名截止：9.2】[SIGS海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
+
 【报名截止：9.2】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
 
 【报名截止：9.2】[深圳国际研究生院博士招生](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
@@ -808,6 +810,8 @@
 
 > [山东大学预推免信息](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
 
+【报名截止：9.18】[电气工程学院](http://www.ee.sdu.edu.cn/info/1005/14044.htm)
+
 ~~【报名截止：7.5】[激光与红外系统集成技术教育部重点实验室](https://lit.qd.sdu.edu.cn/info/1016/1911.htm)~~
 
 ~~【报名截止：7.2】[空间科学与物理学院（威海）](https://apd.wh.sdu.edu.cn/info/1334/16330.htm)~~
@@ -1246,7 +1250,7 @@
 
 > [中国石油大学（华东）](http://zs.gs.upc.edu.cn/2024/0618/c10710a434335/page.htm)
 
-【报名截止：8.7】[新能源学院](https://ne.upc.edu.cn/2024/0710/c14962a435975/page.htm)
+~~【报名截止：8.7】[新能源学院](https://ne.upc.edu.cn/2024/0710/c14962a435975/page.htm)~~
 
 ~~【报名截止：7.1】[石油工程学院](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)~~
 
@@ -1259,6 +1263,10 @@
 ## 中国矿业大学
 
 > [中国矿业大学夏令营信息](https://yz.cumt.edu.cn/info/1004/2106.htm) | [中国矿业大学（北京）夏令营信息](https://yjs.cumtb.edu.cn/info/1021/4194.htm)
+
+##  中央音乐学院
+
+【报名截止：9.19】[音乐人工智能与音乐信息科技方向](https://www.ccom.edu.cn/info/10721/235011.htm)
 
 ## 北京信息科技大学
 
@@ -1287,6 +1295,8 @@
 > [北京电子科技学院夏令营信息](https://www.besti.edu.cn/221/2094.html)
 
 ## 北京协和医学院
+
+【报名截止：9.5】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)
 
 ~~【报名截止：6.29】[生物医学工程研究所](https://mp.weixin.qq.com/s/8fnFpvbj8bj0N2phkEJu_g)~~
 
