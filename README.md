@@ -30,6 +30,8 @@
 
 【报名截止：9.2】[SIGS-IMDT](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
 
+【报名截止：9.2】[天基网络与通信全国重点实验室](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)
+
 【报名截止：9.2】[SIGS海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
 
 【报名截止：9.2】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
@@ -260,6 +262,8 @@
 
 ## 北京理工大学
 
+【报名截止：N/A】[集成电路与电子学院信号与图像处理研究所](https://isip.bit.edu.cn/xwgg/tzgg/eeb7b3256de64b278a60d3808ee69879.htm)
+
 ~~【报名截止：6.30】[宇航学院](https://sae.bit.edu.cn/tzgggb/2e11446da6524f0a99fa4314c1160f50.htm)~~
 
 ~~【报名截止：6.30】[机电学院](https://smen.bit.edu.cn/tzgg/7f0c3eed4dad47b6b67ce139081609f9.htm)~~
@@ -305,6 +309,8 @@
 【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
 
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
+
+【报名截止：9.10】[电气工程学院](https://mp.weixin.qq.com/s/_KfM0ZMbmL8iCyNWxbwI6Q)
 
 【报名截止：9.9】[海洋学院](http://oc.zju.edu.cn/2024/0810/c52420a2952624/page.htm)
 
@@ -668,6 +674,8 @@
 
 【报名截止：N/A】[（深圳）机电工程与自动化学院](http://smea.hitsz.edu.cn/info/1014/2531.htm)
 
+【报名截止：N/A】[（威海） 材料科学与工程学院](http://mse.hitwh.edu.cn/2024/0825/c5008a186477/page.htm)
+
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
 ~~【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
@@ -928,6 +936,8 @@
 
 【报名截止：9.23】[国家授时中心](http://www.ntsc.cas.cn/xwzx_/tzgg/202408/t20240823_7309806.html)
 
+【报名截止：9.17】[半导体研究所](https://bdt.semi.ac.cn/yanjiusheng/contents/691/4308.html)
+
 【报名截止：9.16】[精密测量科学与技术创新研究院](http://apm.cas.cn/zs/202408/t20240819_7290488.html)
 
 【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
@@ -1053,6 +1063,12 @@
 ~~【报名截止：7.1】[医学部](https://med.dlut.edu.cn/info/1003/4747.htm)~~
 
 ~~【报名截止：6.28】[物理学院](https://physics.dlut.edu.cn/info/1055/10904.htm)~~
+
+## 中国海洋大学
+
+> [中国海洋大学预推免信息](https://yz.ouc.edu.cn/2024/0827/c5926a482049/page.htm)
+
+【报名截止：9.19】[创新人才培养专项计划](https://yz.ouc.edu.cn/2024/0827/c5926a482047/page.htm)
 
 ## 西安电子科技大学
 
