@@ -44,6 +44,10 @@
 
 【报名截止：9.2】[航天航空学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e15a9be3-6a1c-4fef-957e-073f2e83e04c?yxsdm=031)
 
+【报名截止：9.2】[深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ)
+
+【报名截止：9.2】[全球创新学院GIX](https://gix.tsinghua.edu.cn/zs1.htm)
+
 【报名截止：9.2】[交叉信息研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)
 
 【报名截止：9.2】[人工智能学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)
@@ -678,7 +682,13 @@
 
 【报名截止：N/A】[（威海） 材料科学与工程学院](http://mse.hitwh.edu.cn/2024/0825/c5008a186477/page.htm)
 
+【报名截止：9.20】[航天学院-控制科学与工程学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
+
+【报名截止：9.18】[航天学院航空宇航科学与技术学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
+
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
+
+【报名截止：9.13】[航天学院集成电路科学与工程、电子科学与技术及光学工程学科](https://sa.hit.edu.cn/2024/0829/c6582a351793/page.htm)
 
 【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)
 
@@ -806,7 +816,9 @@
 
 > [湖南大学预推免信息](http://gra.hnu.edu.cn/info/1075/9695.htm)
 
-~~> [湖南大学2024年各学院优秀大学生暑期夏令营信息汇总](https://gra.hnu.edu.cn/info/1075/9607.htm)~~
+> [湖南大学2024年各学院优秀大学生暑期夏令营信息汇总](https://gra.hnu.edu.cn/info/1075/9607.htm)
+
+【报名截止：9.15】[国优计划](https://gra.hnu.edu.cn/info/1075/9696.htm)
 
 ~~【报名截止：6.14】[电气与信息工程学院](https://eeit.hnu.edu.cn/info/1184/10533.htm)~~
 
@@ -948,11 +960,13 @@
 
 【报名截止：9.16】[精密测量科学与技术创新研究院](http://apm.cas.cn/zs/202408/t20240819_7290488.html)
 
+【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)
+
 【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
 
 【报名截止：8.30】[自动化研究所](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
 
-【报名截止：8.29】[心理研究所](http://www.psych.cas.cn/edu/zsxx/sszs/202408/t20240823_7310060.html)
+~~【报名截止：8.29】[心理研究所](http://www.psych.cas.cn/edu/zsxx/sszs/202408/t20240823_7310060.html)~~
 
 ~~【报名截止：8.26】[上海高等研究院光源科学中心](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202407/t20240725_7235570.html)~~
 
@@ -1124,6 +1138,8 @@
 
 【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
 
+【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)
+
 【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
 【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
@@ -1155,6 +1171,8 @@
 ## 南方科技大学
 
 > [南方科技大学夏令营信息](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
+
+【报名截止：9.28】[生物医学工程系](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
 
 ~~【报名截止：6.23】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=629)~~
 
@@ -1399,6 +1417,10 @@
 ##  中国航空工业集团公司
 
 > [西安飞行自动控制研究所](https://mp.weixin.qq.com/s/fgszexKIliZSSVGMWN4gfA)
+
+##  中国航天科工集团第二研究院
+
+【报名截止：10.16】[中国航天科工集团第二研究院](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
 
 ## 上海大学
 
