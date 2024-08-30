@@ -136,6 +136,8 @@
 
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
+【报名截止：9.16】[上海交通大学与宁波东方理工大学](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
+
 ~~【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
 ~~【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
@@ -185,6 +187,8 @@
 > [复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
 
 【报名截止：9.2】[工程硕博士](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)
+
+【报名截止：9.2】[现物所-工程硕博士](https://mp.weixin.qq.com/s/Q89NkU9DXj-wNCnAsWJzyA)
 
 ~~【报名截止：5.31】[光科学与工程系](https://optics.fudan.edu.cn/49/66/c39767a674150/page.htm)~~
 
@@ -398,6 +402,8 @@
 
 【报名截止：9.15】[国优计划](https://xxgk.seu.edu.cn/2024/0827/c10807a501080/page.htm)
 
+【报名截止：9.9】[土木工程学院](https://civil.seu.edu.cn/2024/0830/c20024a501395/page.htm)
+
 ~~【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)~~
 
 ~~【报名截止：8.12】[电气工程学院](https://ee.seu.edu.cn/2024/0625/c25184a495394/page.htm)~~
@@ -424,13 +430,15 @@
 
 > [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
+【报名截止：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
+
 【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
 【报名截止：9.5】[智能与计算学部  国优计划](https://cic.tju.edu.cn/info/1041/5013.htm)
 
 【报名截止：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
-【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
+~~【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)~~
 
 ~~【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)~~
 
@@ -522,7 +530,7 @@
 
 【报名截止：暂无】[电子工程与信息科学系](https://eeis.ustc.edu.cn/2024/0603/c2702a642819/page.htm)
 
-【报名截止：8.30】[火灾实验室（安全科学与工程）](https://sklfs.ustc.edu.cn/2024/0722/c5895a648166/page.htm)
+~~【报名截止：8.30】[火灾实验室（安全科学与工程）](https://sklfs.ustc.edu.cn/2024/0722/c5895a648166/page.htm)~~
 
 ~~【报名截止：7.5】[自动化系](https://auto.ustc.edu.cn/2024/0603/c26085a642769/page.htm)~~
 
@@ -721,6 +729,8 @@
 > [华南理工大学2025年接收推免预报名公告](https://yz.scut.edu.cn/2024/0819/c30674a559796/page.htm)
 
 【报名截止：N/A】[工程硕博士培养改革专项](https://yz.scut.edu.cn/2024/0816/c30108a559743/page.htm)
+
+【报名截止：9月上旬】[智能EDA专项班](https://yz.scut.edu.cn/2024/0829/c30674a560558/page.htm)
 
 ~~【报名截止：6.27】[未来技术学院](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)~~
 
@@ -942,6 +952,8 @@
 
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
+【报名截止：10.10】[新疆生态与地理研究所](https://egi.cas.cn/tzgg2020/tzgg_163367/202408/t20240830_7327590.html)
+
 【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
 
 【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
@@ -964,7 +976,7 @@
 
 【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
 
-【报名截止：8.30】[自动化研究所](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
+~~【报名截止：8.30】[自动化研究所](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)~~
 
 ~~【报名截止：8.29】[心理研究所](http://www.psych.cas.cn/edu/zsxx/sszs/202408/t20240823_7310060.html)~~
 
@@ -1140,13 +1152,13 @@
 
 【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)
 
-【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
+~~【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)~~
 
-【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
+~~【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)~~
 
-【报名截止：8.30】[前沿交叉科学技术研究院 ](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)
+~~【报名截止：8.30】[前沿交叉科学技术研究院 ](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)~~
 
-【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
+~~【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)~~
 
 ~~【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)~~
 
@@ -1376,7 +1388,9 @@
 
 ## 湘潭大学
 
-【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)~~
+【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)
+
+【报名截止：9.15】[自动化与电子信息学院](https://aei.xtu.edu.cn/info/1078/3818.htm)
 
 ## 广东工业大学
 
