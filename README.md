@@ -386,6 +386,8 @@
 
 > [武汉大学夏令营信息](https://wdyz.whu.edu.cn/info/1031/6143.htm)
 
+【报名截止：N/A】 [遥感信息工程学院](https://rsgis.whu.edu.cn/info/1213/98250.htm)
+
 ~~【报名截止：7.1】[物理科学与技术学院](https://mp.weixin.qq.com/s/p0ebx65kiGX9HufRhlb3Gg)~~
 
 ~~【报名截止：6.27】[水利水电学院](https://swrh.whu.edu.cn/info/1041/92171.htm)~~
