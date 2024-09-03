@@ -184,11 +184,17 @@
 
 ## 复旦大学
 
+> [复旦大学预推免消息](https://gsao.fudan.edu.cn/8a/a3/c15157a690851/page.htm)
+
 > [复旦大学夏令营信息](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
 
-【报名截止：9.2】[工程硕博士](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)
+【报名截止：9.15】[人类表型组研究院](https://hupi.fudan.edu.cn/info/1064/3756.htm)
 
-【报名截止：9.2】[现物所-工程硕博士](https://mp.weixin.qq.com/s/Q89NkU9DXj-wNCnAsWJzyA)
+【报名截止：9.15】[集成电路领域](https://sme.fudan.edu.cn/8a/ac/c29363a690860/page.htm)
+
+~~【报名截止：9.2】[工程硕博士](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)~~
+
+~~【报名截止：9.2】[现物所-工程硕博士](https://mp.weixin.qq.com/s/Q89NkU9DXj-wNCnAsWJzyA)~~
 
 ~~【报名截止：5.31】[光科学与工程系](https://optics.fudan.edu.cn/49/66/c39767a674150/page.htm)~~
 
@@ -436,6 +442,8 @@
 
 > [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
+【报名截止：9.12】[新媒体与传播学院](https://mp.weixin.qq.com/s/i7x_ETpQ4jaQlxP8Djq12A)
+
 【报名截止：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
 
 【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
@@ -537,6 +545,8 @@
 > [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：暂无】[电子工程与信息科学系](https://eeis.ustc.edu.cn/2024/0603/c2702a642819/page.htm)
+
+【报名截止：9.18】[北京通用人工智能研究院](https://yz.ustc.edu.cn/article/2735/202?num=-1)
 
 【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
 
@@ -1218,6 +1228,8 @@
 
 【报名截止：9.28】[生物医学工程系](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
 
+【报名截止：9.19】[深港微电子学院](https://sme.sustech.edu.cn/index/news/neiye/id/739.html)
+
 ~~【报名截止：6.23】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=629)~~
 
 ~~【报名截止：6.20】[生物医学工程系](https://bme.sustech.edu.cn/20240425-2/?9)~~
@@ -1524,6 +1536,10 @@
 
 ~~【报名截止：6.23】[机械工程学院](https://sme.jiangnan.edu.cn/info/1070/7218.htm)~~
 
+##  长安大学
+
+【报名截止：N/A】[电子与控制工程学院](https://ec.chd.edu.cn/info/1043/1985.htm)
+
 ## 内蒙古大学
 
 ~~【报名截止：8.5】[生物医学研究院](https://swyxyjy.imu.edu.cn/info/1146/1446.htm)~~
@@ -1662,6 +1678,10 @@
 
 > [陕西师范大学推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
 
+## 西北政法大学
+
+> [西北政法大学预推免信息](https://mp.weixin.qq.com/s/emMysciBii8ouW7Vvs-HfA)
+
 ## 河南大学
 
 >[河南大学夏令营信息](https://grs.henu.edu.cn/info/1111/7882.htm)
@@ -1689,6 +1709,8 @@
 ## 南京师范大学
 
 > [南京师范大学夏令营信息](https://yz.njnu.edu.cn/homepage_display.jsp?wid=null&wid2=14D794593A67E337E06002DF3E094F07)
+
+> [南京师范大学预推免](https://yz.njnu.edu.cn/homepage_display.jsp?wid=AC3D9226AD9F3C16E04077CAA468131D&wid2=210C30F638E99776E06002DF3E091ADA)
 
 ~~【报名截止：6.15】 [瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1044/5723.htm)~~
 
@@ -1724,6 +1746,8 @@
 
 > [深圳大学预推免信息](https://yz.szu.edu.cn/info/1041/12989.htm)
 
+【报名截止：N/A】[中国经济特区研究中心](http://www.ccsezr.org.cn/index.php?m=content&c=index&a=show&catid=42&id=291)
+
 【报名截止：N/A】[微众银行金融科技学院](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
 
 ~~【报名截止：7.14】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
@@ -1755,6 +1779,8 @@
 ## 南昌大学
 
 【报名截止：9.17】[南昌大学](http://yjsy.ncu.edu.cn/tzgg/8ac9367f17b74f429a74744e66d62534.htm)
+
+【报名截止：9.15】[信息工程学院](http://ie.ncu.edu.cn/xydt/tzgg/d890e87a03474c879300eaec7f8278cb.htm)
 
 ## 合肥工业大学
 
