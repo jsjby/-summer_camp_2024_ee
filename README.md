@@ -166,7 +166,7 @@
 
 > [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
-> [南京大学预推免消息](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
+> [南京大学预推免消息](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)  | > [南京大学预推免直博生信息](https://yzb.nju.edu.cn/e4/ab/c47865a713899/page.htm)
 
 【报名截止：9.8】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)
 
@@ -191,6 +191,16 @@
 【报名截止：9.15】[人类表型组研究院](https://hupi.fudan.edu.cn/info/1064/3756.htm)
 
 【报名截止：9.15】[集成电路领域](https://sme.fudan.edu.cn/8a/ac/c29363a690860/page.htm)
+
+【报名截止：9.15】[工程与应用技术研究院](https://faet.fudan.edu.cn/8b/9b/c23815a691099/page.htm)
+
+【报名截止：9.15】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/8b/53/c43157a691027/page.htm)
+
+【报名截止：9.15】[上海数学与交叉学科研究院](https://www.simis.cn/2025-enrollment-application/)
+
+【报名截止：9.15】[航空航天系](https://aero-mech.fudan.edu.cn/8b/ad/c26484a691117/page.htm)
+
+【报名截止：9.13】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4696)
 
 ~~【报名截止：9.2】[工程硕博士](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)~~
 
@@ -474,7 +484,21 @@
 
 ## 同济大学
 
+> [同济大学预推免招生信息](https://yz.tongji.edu.cn/info/1010/3650.htm)
+
+【报名截止：10.7】 [国优计划](https://yz.tongji.edu.cn/info/1010/3640.htm)
+
 【报名截止：9.26】 [同济大学2025年接收推免预报名公告](https://yz.tongji.edu.cn/info/1010/3638.htm)
+
+【报名截止：9.26】 [计算机科学与技术学院（软件学院）第二批](https://sse.tongji.edu.cn/info/1132/5276.htm)
+
+【报名截止：9.18】 [设计创意学院“人工智能与数据设计”方向](https://mp.weixin.qq.com/s/RlvqzxGgYFEWxXU483VU2Q)
+
+【报名截止：9.16】 [生命科学与技术学院](https://life.tongji.edu.cn/2b/6b/c12644a338795/page.htm)
+
+【报名截止：9.14】 [上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/2b/6d/c17827a338797/page.htm)
+
+【报名截止：9.14】 [计算机科学与技术学院（软件学院）第一批](https://sse.tongji.edu.cn/info/1132/5276.htm)
 
 ~~【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
@@ -522,7 +546,15 @@
 
 ## 厦门大学
 
-~~> [厦门大学夏令营信息](https://zs.xmu.edu.cn/info/1055/28951.htm)~~
+> [厦门大学夏令营信息](https://zs.xmu.edu.cn/info/1055/28951.htm)
+
+> [厦门大学预推免招生信息](https://zs.xmu.edu.cn/info/1055/30871.htm)
+
+【报名截止：9.14】 [信息学院（特色化示范性软件学院）](https://informatics.xmu.edu.cn/info/1050/40529.htm)
+
+【报名截止：9.12】 [萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/9799.htm)
+
+【报名截止：9.11】 [电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/23289.htm)
 
 ~~【报名截止：6.15】[物理科学与技术学院](https://cpst.xmu.edu.cn/info/1045/24900.htm)~~
 
@@ -591,6 +623,8 @@
 ## 中南大学
 
 > [中南大学夏令营信息](https://mp.weixin.qq.com/s/L7whd7YB2zBFzVaIbF9XEg)
+
+【报名截止：9.18】[电子信息学院](https://ei.csu.edu.cn/info/1085/1633.htm)
 
 ~~【报名截止：6.12】[电子信息学院](https://ei.csu.edu.cn/info/1085/1549.htm)~~
 
@@ -834,6 +868,8 @@
 
 > [东北大学预推免信息](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
 
+~~【报名截止：9.4 [工程硕博士培养](http://yz.neu.edu.cn/2024/0902/c5932a267593/page.htm)~~
+
 ~~【报名截止：6.14】[秦皇岛分校光学工程学科](https://graduate.neuq.edu.cn/info/1099/4836.htm)~~
 
 ~~【报名截止：6.30】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm)~~
@@ -882,7 +918,7 @@
 
 【报名截止：9.14 [信息学院](https://www.ise.sdu.edu.cn/info/1025/13923.htm)
 
-【报名截止：9.4 [国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)
+~~【报名截止：9.4 [国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)~~
 
 ~~【报名截止：7.5】[激光与红外系统集成技术教育部重点实验室](https://lit.qd.sdu.edu.cn/info/1016/1911.htm)~~
 
@@ -1230,6 +1266,8 @@
 
 【报名截止：9.19】[深港微电子学院](https://sme.sustech.edu.cn/index/news/neiye/id/739.html)
 
+【报名截止：9.15】[系统设计与智能制造学院](https://mp.weixin.qq.com/s/KHpzoQBSG6TuZ7WlYBwdRg)
+
 ~~【报名截止：6.23】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=629)~~
 
 ~~【报名截止：6.20】[生物医学工程系](https://bme.sustech.edu.cn/20240425-2/?9)~~
@@ -1366,6 +1404,16 @@
 
 > [中国矿业大学夏令营信息](https://yz.cumt.edu.cn/info/1004/2106.htm) | [中国矿业大学（北京）夏令营信息](https://yjs.cumtb.edu.cn/info/1021/4194.htm)
 
+> [中国矿业大学（北京）预推免信息](https://yjs.cumtb.edu.cn/info/1021/4281.htm)
+
+~~【报名截止：6.28】[材料与物理学院](https://smsp.cumt.edu.cn/2e/7e/c18894a667262/page.htm)~~
+
+## 中国地质大学(武汉)
+
+> [中国地质大学(武汉)预推免信息](http://yz.cug.edu.cn/page/detail/PVKZRL/697/61815)
+
+~~【报名截止：6.20】[机电学院](https://jidian.cug.edu.cn/info/1097/7424.htm)~~
+
 ##  中央音乐学院
 
 【报名截止：9.19】[音乐人工智能与音乐信息科技方向](https://www.ccom.edu.cn/info/10721/235011.htm)
@@ -1473,14 +1521,6 @@
 ~~【报名截止：7.5】[物理与光电工程学院](https://mp.weixin.qq.com/s/MeI5mRJNf_u_yipWpGQOzw)~~
 
 ~~【报名截止：6.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4887.htm)~~
-
-## 中国矿业大学
-
-~~【报名截止：6.28】[材料与物理学院](https://smsp.cumt.edu.cn/2e/7e/c18894a667262/page.htm)~~
-
-## 中国地质大学（武汉）
-
-~~【报名截止：6.20】[机电学院](https://jidian.cug.edu.cn/info/1097/7424.htm)~~
 
 ##  中国航空工业集团公司
 
