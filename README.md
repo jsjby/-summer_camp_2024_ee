@@ -138,6 +138,8 @@
 
 【报名截止：9.16】[上海交通大学与宁波东方理工大学](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
 
+【报名截止：9.15】[航空航天学院](https://www.aero.sjtu.edu.cn/Data/View/6257)
+
 ~~【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
 ~~【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
@@ -254,7 +256,9 @@
 
 > [南开大学夏令营信息](https://yzb.nankai.edu.cn/2024/0607/c5508a545190/page.htm)
 
-【报名截止：9.5】[物理科学学院](https://physics.nankai.edu.cn/2024/0823/c576a549040/page.htm)
+【报名截止：9.11】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5923.htm)
+
+~~【报名截止：9.5】[物理科学学院](https://physics.nankai.edu.cn/2024/0823/c576a549040/page.htm)~~
 
 ~~【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)~~
 
@@ -424,6 +428,8 @@
 
 【报名截止：9.15】[国优计划](https://xxgk.seu.edu.cn/2024/0827/c10807a501080/page.htm)
 
+【报名截止：9.12】[蒙纳士大学苏州联合研究生院](https://smjgs.seu.edu.cn/2024/0902/c8471a501644/page.htm)
+
 【报名截止：9.9】[土木工程学院](https://civil.seu.edu.cn/2024/0830/c20024a501395/page.htm)
 
 ~~【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)~~
@@ -452,13 +458,15 @@
 
 > [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
+【报名截止：9.27】[直博生报名](https://yzb.tju.edu.cn/xwzx/tkbs_xw/202409/t20240905_323897.htm)
+
 【报名截止：9.12】[新媒体与传播学院](https://mp.weixin.qq.com/s/i7x_ETpQ4jaQlxP8Djq12A)
 
 【报名截止：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
 
-【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
+~~【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)~~
 
-【报名截止：9.5】[智能与计算学部  国优计划](https://cic.tju.edu.cn/info/1041/5013.htm)
+~~【报名截止：9.5】[智能与计算学部  国优计划](https://cic.tju.edu.cn/info/1041/5013.htm)~~
 
 【报名截止：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
@@ -552,6 +560,14 @@
 
 【报名截止：9.14】 [信息学院（特色化示范性软件学院）](https://informatics.xmu.edu.cn/info/1050/40529.htm)
 
+【报名截止：9.14】 [人工智能研究院](https://iai.xmu.edu.cn/info/1110/4114.htm)
+
+【报名截止：9.14】 [公共卫生学院](https://sph.xmu.edu.cn/info/1311/53594.htm)
+
+【报名截止：9.14】 [航空航天学院](https://aerospace.xmu.edu.cn/info/1019/50173.htm)
+
+【报名截止：9.13】 [柔性电子（未来技术）研究院](http://ife.xmu.edu.cn/info/1341/3321.htm)
+
 【报名截止：9.12】 [萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/9799.htm)
 
 【报名截止：9.11】 [电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/23289.htm)
@@ -577,6 +593,8 @@
 > [中国科学技术大学夏令营信息](https://m.xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：暂无】[电子工程与信息科学系](https://eeis.ustc.edu.cn/2024/0603/c2702a642819/page.htm)
+
+【报名截止：9.25前】[自动化系](https://auto.ustc.edu.cn/2024/0905/c26085a652618/page.htm)
 
 【报名截止：9.18】[北京通用人工智能研究院](https://yz.ustc.edu.cn/article/2735/202?num=-1)
 
@@ -625,6 +643,8 @@
 > [中南大学夏令营信息](https://mp.weixin.qq.com/s/L7whd7YB2zBFzVaIbF9XEg)
 
 【报名截止：9.18】[电子信息学院](https://ei.csu.edu.cn/info/1085/1633.htm)
+
+【报名截止：9.17】[机电工程学院](https://cmee.csu.edu.cn/info/1022/6429.htm)
 
 ~~【报名截止：6.12】[电子信息学院](https://ei.csu.edu.cn/info/1085/1549.htm)~~
 
@@ -703,6 +723,8 @@
 ## 华东师范大学
 
 > [华东师大夏令营信息](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
+
+> [华东师范大学招生信息](https://yjszs.ecnu.edu.cn/8d/88/c43265a626056/page.htm)
 
 ~~【报名截止：6.21】[集成电路科学与工程学院](https://mp.weixin.qq.com/s/f5IZyh3hcb8TnVMJTyq4mQ)~~
 
@@ -831,6 +853,8 @@
 ~~【报名截止：6.28】[系统工程学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13815)~~
 
 ## 吉林大学
+
+【报名截止：9.7】[人工智能学院工程硕博士校企联合培养](https://sai.jlu.edu.cn/info/1066/4765.htm)
 
 ~~【报名截止：7.3】[仪器科学与电气工程学院](https://mp.weixin.qq.com/s/BysoQV6j889NP4t1FbeUWA)~~
 
@@ -984,6 +1008,8 @@
 
 【报名截止：N/A】[核科学与技术学院](https://nuclear.ucas.ac.cn/index.php/zh-cn/zsjy/zs/bkxz/4200-tm1tz)
 
+【报名截止：N/A】[材料科学与光电技术学院](https://cmo.ucas.edu.cn/index.php/zh-cn/sy/zsjy/1890-2025)
+
 【报名截止：9.10】[电子电气与通信工程学院](https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2535-2025)
 
 ~~【报名截止：7.15】[空天信息创新研究院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
@@ -1041,6 +1067,8 @@
 【报名截止：9.23】[电工研究所](https://iee.cas.cn/yjsjy/zsgg/2024zsgg/202408/t20240821_7305858.html)
 
 【报名截止：9.23】[国家授时中心](http://www.ntsc.cas.cn/xwzx_/tzgg/202408/t20240823_7309806.html)
+
+【报名截止：9.20】[上海天文台](http://www.shao.ac.cn/yjs/zsxx/202409/t20240904_7333027.html)
 
 【报名截止：9.17】[半导体研究所](https://bdt.semi.ac.cn/yanjiusheng/contents/691/4308.html)
 
@@ -1378,6 +1406,10 @@
 
 ~~【报名截止：7.11】[农业信息研究所](https://aii.caas.cn/yjspy/zsxx/e1b4de6b05a94ec4a556b0aed0665ac3.htm)~~
 
+## 中国政法大学
+
+> [中国政法大学预推免信息](https://yjsy.cupl.edu.cn/info/1020/11849.htm)
+
 ##  中国航天科工三院三部
 
 【报名截止：9月】[中国航天科工三院三部](https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ)
@@ -1418,6 +1450,10 @@
 
 【报名截止：9.19】[音乐人工智能与音乐信息科技方向](https://www.ccom.edu.cn/info/10721/235011.htm)
 
+##  中南财经政法大学
+
+【报名截止：9.14】[信息工程学院](https://xagx.zuel.edu.cn/2024/0905/c3402a371490/page.htm)
+
 ## 北京信息科技大学
 
 > [北京信息科技大学夏令营信息](https://yanjiusheng.bistu.edu.cn/zsgl/zsxx/zsgg/202406/P020240611575800810752.pdf)
@@ -1444,6 +1480,12 @@
 
 > [北京电子科技学院夏令营信息](https://www.besti.edu.cn/221/2094.html)
 
+【报名截止：9.25】[北京电子科技学院](https://www.besti.edu.cn/600/2140.html)
+
+##  北京建筑大学
+
+> [北京建筑大学](https://yjsy.bucea.edu.cn/tzgg0/da713c0534b54641ae3353f52a6b196a.htm)
+
 ## 北京协和医学院
 
 【报名截止：9.5】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)
@@ -1456,7 +1498,11 @@
 
 ## 北京语言大学
 
- > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13250_1170151.html)
+> [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13250_1170151.html)
+
+## 东北财经大学
+
+【报名截止：9.18】[数据科学与人工智能学院](https://dsai.dufe.edu.cn/content_85962.html)
 
 ## 首都师范大学
 
@@ -1786,6 +1832,8 @@
 
 > [深圳大学预推免信息](https://yz.szu.edu.cn/info/1041/12989.htm)
 
+【报名截止：N/A】[大湾区国际创新学院](https://mp.weixin.qq.com/s/yszOexUhrUBlG95O9vQuRw?)
+
 【报名截止：N/A】[中国经济特区研究中心](http://www.ccsezr.org.cn/index.php?m=content&c=index&a=show&catid=42&id=291)
 
 【报名截止：N/A】[微众银行金融科技学院](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
@@ -1843,6 +1891,8 @@
 ~~【报名截止：6.30】 [电气与电子工程学院](https://electric.ncepu.edu.cn/zsgz/bsyjszs/432f27cc7246428387d6078081e03515.htm)~~
 
 ## 华南农业大学
+
+> [华南农业大学夏令营信息](https://yjs.hzau.edu.cn/info/1189/10191.htm)
 
 ~~【报名截止：7.3】 [工程学院](https://gcxy.scau.edu.cn/2024/0628/c2105a379430/page.htm)~~
 
