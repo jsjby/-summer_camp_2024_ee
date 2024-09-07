@@ -466,6 +466,8 @@
 
 【报名截止：N/A】[纳米中心](https://ticnn.tju.edu.cn/info/1052/1595.htm)
 
+【报名截止：N/A】[海洋科学与技术学院](https://marine.tju.edu.cn/info/1036/3642.htm)
+
 【报名截止：9.27】[直博生报名](https://yzb.tju.edu.cn/xwzx/tkbs_xw/202409/t20240905_323897.htm)
 
 【报名截止：9.20】[微电子学院](https://sme.tju.edu.cn/info/1099/2974.htm)
@@ -508,7 +510,11 @@
 
 【报名截止：9.26】 [同济大学2025年接收推免预报名公告](https://yz.tongji.edu.cn/info/1010/3638.htm)
 
+【报名截止：9.26】 [工程硕博士](https://yz.tongji.edu.cn/info/1010/3653.htm)
+
 【报名截止：9.26】 [计算机科学与技术学院（软件学院）第二批](https://sse.tongji.edu.cn/info/1132/5276.htm)
+
+【报名截止：9.25】 [测绘与地理信息学院](https://celiang.tongji.edu.cn/info/1205/4022.htm)
 
 【报名截止：9.18】 [设计创意学院“人工智能与数据设计”方向](https://mp.weixin.qq.com/s/RlvqzxGgYFEWxXU483VU2Q)
 
@@ -866,7 +872,7 @@
 
 ## 吉林大学
 
-【报名截止：9.7】[人工智能学院工程硕博士校企联合培养](https://sai.jlu.edu.cn/info/1066/4765.htm)
+~~【报名截止：9.7】[人工智能学院工程硕博士校企联合培养](https://sai.jlu.edu.cn/info/1066/4765.htm)~~
 
 ~~【报名截止：7.3】[仪器科学与电气工程学院](https://mp.weixin.qq.com/s/BysoQV6j889NP4t1FbeUWA)~~
 
@@ -1008,7 +1014,9 @@
 
 ## 兰州大学
 
- > [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
+> [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
+
+【报名截止：9.26】[国优计划](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2024/0907/274604.html)
 
 ~~【报名截止：6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html)~~
 
@@ -1502,7 +1510,7 @@
 
 ## 北京协和医学院
 
-【报名截止：9.5】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)
+~~【报名截止：9.5】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)~~
 
 ~~【报名截止：6.29】[生物医学工程研究所](https://mp.weixin.qq.com/s/8fnFpvbj8bj0N2phkEJu_g)~~
 
@@ -1643,6 +1651,10 @@
 ~~【报名截止：6.23】[理学院](https://science.jiangnan.edu.cn/info/1055/9393.htm)~~
 
 ~~【报名截止：6.23】[机械工程学院](https://sme.jiangnan.edu.cn/info/1070/7218.htm)~~
+
+## 江西农业大学
+
+> [江西农业大学夏令营信息](https://yanjiusheng.jxau.edu.cn/19/48/c981a137544/page.htm)
 
 ##  长安大学
 
@@ -1858,6 +1870,8 @@
 
 > [深圳大学预推免信息](https://yz.szu.edu.cn/info/1041/12989.htm)
 
+【报名截止：N/A】[国际海事智慧管理交叉育人平台](https://mp.weixin.qq.com/s/aBHZWtfcjTU1TJQh62GMow)
+
 【报名截止：N/A】[大湾区国际创新学院](https://mp.weixin.qq.com/s/yszOexUhrUBlG95O9vQuRw?)
 
 【报名截止：N/A】[中国经济特区研究中心](http://www.ccsezr.org.cn/index.php?m=content&c=index&a=show&catid=42&id=291)
@@ -1899,6 +1913,8 @@
 ## 合肥工业大学
 
 > [合肥工业大学夏令营信息](https://yjszs.hfut.edu.cn/2024/0612/c13526a304692/page.htm)
+
+> [合肥工业大学预推免信息](https://yjszs.hfut.edu.cn/2024/0907/c13524a306283/page.htm)
 
 ~~【报名截止：7.5】 [仪器科学与光电工程学院](https://yqkx.hfut.edu.cn/2024/0618/c13124a304846/page.htm)~~
 
@@ -1965,6 +1981,8 @@
 ~~【报名截止：7.14】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)~~
 
 ##  海军工程大学
+
+【报名截止：10.10】[海军工程大学](https://mp.weixin.qq.com/s/r3QyLDgJ3GTx_9Vvi4FUIA)
 
 ~~【报名截止：7.2】[海军工程大学](https://mp.weixin.qq.com/s/SOmT4SSPJQATn3O8pbTMkA)~~
 
