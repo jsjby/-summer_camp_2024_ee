@@ -474,7 +474,7 @@
 
 【报名截止：9.12】[新媒体与传播学院](https://mp.weixin.qq.com/s/i7x_ETpQ4jaQlxP8Djq12A)
 
-【报名截止：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
+~~【报名截止：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)~~
 
 ~~【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)~~
 
@@ -773,6 +773,8 @@
 【报名截止：N/A】[仪器科学与工程学院](http://ise.hit.edu.cn/2024/0731/c16271a349625/page.htm)
 
 【报名截止：N/A】[新能源学院（威海）](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)
+
+【报名截止：N/A】[（威海）海洋工程学院](https://snaoe.hitwh.edu.cn/2024/0906/c86a187106/page.htm)
 
 【报名截止：N/A】[（威海） 计算机科学与技术学院](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
@@ -1855,6 +1857,12 @@
 ## 郑州大学
 
 > [郑州大学预推免信息](http://gs.zzu.edu.cn/info/1023/13202.htm)
+
+【报名截止：9.22】[网络空间安全学院](http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec89077fd760191cf896c0202bc)
+
+## 山西农业大学
+
+【报名截止：N/A】[软件学院](https://soft.sxau.edu.cn/info/1047/4509.htm)
 
 ## 云南大学
 
