@@ -1018,6 +1018,10 @@
 
 【报名截止：9.15】[国优计划](https://gra.hnu.edu.cn/info/1075/9696.htm)
 
+【报名截止：9.15】[机器人学院](https://robotics.hnu.edu.cn/info/1074/2763.htm)
+
+【报名截止：9.15】[机器人学院-国优计划](https://robotics.hnu.edu.cn/info/1074/2765.htm)
+
 ~~【报名截止：6.14】[电气与信息工程学院](https://eeit.hnu.edu.cn/info/1184/10533.htm)~~
 
 ~~【报名截止：6.14】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1865.htm)~~
@@ -1310,6 +1314,8 @@
 
 ## 中国农业大学
 
+【报名截止：9.17】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2024/9/14/art_50390_1037381.html)
+
 【报名截止：N/A】[工学院](https://coe.cau.edu.cn/art/2024/9/12/art_39155_1036976.html)
 
 ~~【报名截止：9.13】[工学院-工程硕博](http://coe.cau.edu.cn/art/2024/9/10/art_39155_1036636.html)~~
@@ -1370,7 +1376,9 @@
 
 ## 北京交通大学
 
- > [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)| > [北京交通大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3033.html)
+> [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)| > [北京交通大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3033.html)
+
+【报名截止：9.18】[电气工程学院](https://ee.bjtu.edu.cn/docs/20240914162245704363.pdf)
 
 ~~【报名截止：7.1】[机械与电子控制工程学院](https://mece.bjtu.edu.cn/cms/item/4928.html)~~
 
