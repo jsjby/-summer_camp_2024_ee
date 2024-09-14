@@ -728,9 +728,15 @@
 
 ## 中山大学
 
+【报名截止：9.20】[柔性电子学院](https://sofe.sysu.edu.cn/zh-hans/article/261)
+
+【报名截止：9.19】[系统科学与工程学院](https://ssse.sysu.edu.cn/article/1136)
+
 【报名截止：9.18】[电子与信息工程学院](https://seit.sysu.edu.cn/article/2639)
 
 【报名截止：9.16】[生物医学工程学院](https://bme.sysu.edu.cn/noticezs/1416745.htm)
+
+【报名截止：9.15】[智能工程学院](https://ise.sysu.edu.cn/zs/zs02/1416769.htm)
 
 ~~【报名截止：7.3】[智能工程学院](https://ise.sysu.edu.cn/notice/1416128.htm)~~
 
