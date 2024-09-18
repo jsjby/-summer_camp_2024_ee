@@ -332,6 +332,10 @@
 
 【报名截止：N/A】[集成电路与电子学院信号与图像处理研究所](https://isip.bit.edu.cn/xwgg/tzgg/eeb7b3256de64b278a60d3808ee69879.htm)
 
+【报名截止：N/A】[自动化学院](https://ac.bit.edu.cn/tzgg/e579c9b60e0443159ad202ab1db2c033.htm)
+
+【报名截止：9.21】[医学技术学院](https://smt.bit.edu.cn/rcpy/yjszs/60ef0fee1a324c808cd28727bb914963.htm)
+
 ~~【报名截止：9.13】[空天网络信息技术研究所](https://cnet.bit.edu.cn/tzgg/fb01bcf320374a199a8111029f47e398.htm)~~
 
 ~~【报名截止：6.30】[宇航学院](https://sae.bit.edu.cn/tzgggb/2e11446da6524f0a99fa4314c1160f50.htm)~~
@@ -421,6 +425,12 @@
 【报名截止：N/A】[航空航天学院](https://www.iaa.uestc.edu.cn/info/1143/5761.htm)
 
 【报名截止：N/A】[集成电路科学与工程学院](https://icse.uestc.edu.cn/info/1057/5378.htm)
+
+【报名截止：9.23】[信息与通信工程学院](https://www.sice.uestc.edu.cn/info/1142/14636.htm)
+
+【报名截止：9.23】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12772.htm)
+
+【报名截止：9.22】[通信抗干扰全国重点实验室](https://www.ncl.uestc.edu.cn/info/1083/3147.htm)
 
 【报名截止：9.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/5341.htm)
 
@@ -801,6 +811,8 @@
 > [西北工业大学预推免信息](https://yzb.nwpu.edu.cn/info/1174/9288.htm) | > [西北工业大学夏令营信息](https://yzb.nwpu.edu.cn/info/1174/9238.htm)
 
 【报名截止：9.25】[微电子学院](https://weidianzi.nwpu.edu.cn/info/1132/5144.htm)
+
+【报名截止：9.24】[电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30571.htm)
 
 【报名截止：9.22】[航海学院](https://hanghai.nwpu.edu.cn/info/1548/20502.htm)
 
