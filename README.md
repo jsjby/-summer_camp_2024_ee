@@ -334,8 +334,6 @@
 
 【报名截止：N/A】[自动化学院](https://ac.bit.edu.cn/tzgg/e579c9b60e0443159ad202ab1db2c033.htm)
 
-【报名截止：9.21】[医学技术学院](https://smt.bit.edu.cn/rcpy/yjszs/60ef0fee1a324c808cd28727bb914963.htm)
-
 ~~【报名截止：9.13】[空天网络信息技术研究所](https://cnet.bit.edu.cn/tzgg/fb01bcf320374a199a8111029f47e398.htm)~~
 
 ~~【报名截止：6.30】[宇航学院](https://sae.bit.edu.cn/tzgggb/2e11446da6524f0a99fa4314c1160f50.htm)~~
