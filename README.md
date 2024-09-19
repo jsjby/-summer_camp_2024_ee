@@ -1008,6 +1008,8 @@
 
 【报名截止：9.23】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1229/19813.htm)
 
+【报名截止：9.23】[人工智能学院](https://sai.jlu.edu.cn/info/1033/4779.htm)
+
 【报名截止：9.23】[汽车工程学院](https://auto.jlu.edu.cn/info/1256/7740.htm)
 
 【报名截止：9.22】[通信工程学院](https://dce.jlu.edu.cn/info/1032/10570.htm)
@@ -1085,6 +1087,8 @@
 【报名截止：N/A】[电气与信息工程学院](http://eeit.hnu.edu.cn/info/1184/10585.htm)
 
 【报名截止：9.27】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1935.htm)
+
+【报名截止：9.22】[信息科学与工程学院](https://csee.hnu.edu.cn/info/1062/13306.htm)
 
 ~~【报名截止：9.19】[卓越工程师学院](http://gra.hnu.edu.cn/info/1075/9699.htm)~~
 
@@ -1952,6 +1956,8 @@
 
 【报名截止：9.27】[物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3936.htm)
 
+【报名截止：9.27】[人工智能与计算机学院（软件学院）](https://ai.jiangnan.edu.cn/info/1020/3924.htm)
+
 ~~【报名截止：6.23】[物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3792.htm)~~
 
 ~~【报名截止：6.23】[理学院](https://science.jiangnan.edu.cn/info/1055/9393.htm)~~
@@ -2134,7 +2140,7 @@
 
 ## 东北师范大学
 
-【报名截止：9.19】[信息科学与技术学院](https://ist.nenu.edu.cn/info/1157/5507.htm)
+~~【报名截止：9.19】[信息科学与技术学院](https://ist.nenu.edu.cn/info/1157/5507.htm)~~
 
 ~~【报名截止：6.17】 [物理学院](https://www.phy.nenu.edu.cn/info/1051/3893.htm)~~
 
@@ -2178,7 +2184,11 @@
 
 ## 华中师范大学
 
-~~【报名截止：9.18】[华中师范大学预推免](https://gs.ccnu.edu.cn/info/1028/3732.htm)~~~~~~~~~~~
+~~【报名截止：9.18】[华中师范大学预推免](https://gs.ccnu.edu.cn/info/1028/3732.htm)~~~
+
+## 辽宁大学
+
+【报名截止：9.25】[信息学部](https://sist.lnu.edu.cn/info/12675/1994.htm)
 
 ## 武汉科技大学
 
