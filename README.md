@@ -318,7 +318,7 @@
 
 ~~【报名截止：9.18】[自动化科学与电气工程学院](https://dept3.buaa.edu.cn/info/1066/6485.htm)~~
 
-【报名截止：9.19】[宇航学院](http://www.sa.buaa.edu.cn/info/1051/10651.htm)
+~~【报名截止：9.19】[宇航学院](http://www.sa.buaa.edu.cn/info/1051/10651.htm)~~
 
 ~~【报名截止：9.8】[集成电路与科学工程学院](http://www.sme.buaa.edu.cn/info/1036/7564.htm)~~
 
@@ -646,7 +646,7 @@
 
 ~~【报名截止：9.18】[人工智能学院](https://iair.xjtu.edu.cn/yjspy/info/1010/1251.htm)~~
 
-【报名截止：9.22】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2475.htm)
+~~【报名截止：9.22】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2475.htm)~~
 
 ~~【报名截止：7.10】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)~~
 
